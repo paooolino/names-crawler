@@ -1,0 +1,455 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="it" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Categoria:Nati nel 2000 - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","gennaio","febbraio","marzo","aprile","maggio","giugno","luglio","agosto","settembre","ottobre","novembre","dicembre"],"wgMonthNamesShort":["","gen","feb","mar","apr","mag","giu","lug","ago","set","ott","nov","dic"],"wgRequestId":"Xh2p9QpAIC4AAImtZiUAAACA","wgCSPNonce":!1,"wgCanonicalNamespace":"Category","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":14,"wgPageName":"Categoria:Nati_nel_2000","wgTitle":"Nati nel 2000","wgCurRevisionId":105738510,"wgRevisionId":105738510,"wgArticleId":2117122,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Categorie aggiunte automaticamente dai template","Eventi del 2000","Nati nel XX secolo"],"wgPageContentLanguage":"it","wgPageContentModel":"wikitext","wgRelevantPageName":
+"Categoria:Nati_nel_2000","wgRelevantArticleId":2117122,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"it","pageLanguageDir":"ltr","pageVariantFallbacks":"it"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"italiano","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q6648148","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.PDCStriker":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.action.view.categoryPage.styles":
+"ready","mediawiki.helplink":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.tmh.thumbnail.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.HiddenCat","ext.gadget.watchlist-notice","ext.gadget.OpenStreetMap","ext.gadget.ReferenceTooltips","ext.gadget.WikiMiniAtlas","ext.gadget.ExternalSearch","ext.gadget.Form-valutazione-enc","ext.gadget.NewSection","ext.gadget.SimilarTitles","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
+"ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1mrx5",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"it"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=it&amp;modules=ext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.action.view.categoryPage.styles%7Cmediawiki.helplink%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=it&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=it&amp;modules=ext.gadget.PDCStriker&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=it&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.14"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//it.m.wikipedia.org/wiki/Categoria:Nati_nel_2000"/>
+<link rel="alternate" type="application/x-wiki" title="Modifica" href="/w/index.php?title=Categoria:Nati_nel_2000&amp;action=edit"/>
+<link rel="edit" title="Modifica" href="/w/index.php?title=Categoria:Nati_nel_2000&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (it)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//it.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://it.wikipedia.org/wiki/Categoria:Nati_nel_2000"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-14 ns-subject mw-editable page-Categoria_Nati_nel_2000 rootpage-Categoria_Nati_nel_2000 skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-mw-helplink" class="mw-indicator"><a href="/wiki/Aiuto:Categorie" target="_blank" class="mw-helplink">Aiuto</a></div>
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="it">Categoria:Nati nel 2000</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">Da Wikipedia, l&#039;enciclopedia libera.</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="it" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="noprint" style="width:100%; margin:8px 1px 0px 0px; border:1px solid #CCC; padding:1px 3px 1px;">
+<tbody><tr>
+<td style="valign:middle;"><a href="/wiki/File:Icon-gears2.svg" class="image"><img alt="Icon-gears2.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Icon-gears2.svg/20px-Icon-gears2.svg.png" decoding="async" width="20" height="26" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Icon-gears2.svg/30px-Icon-gears2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Icon-gears2.svg/40px-Icon-gears2.svg.png 2x" data-file-width="229" data-file-height="295" /></a>
+</td>
+<td style="valign:middle; width:100%; padding-left:.5em;">Questa è una <a href="/wiki/Aiuto:Categorie#Categorie_automatiche" title="Aiuto:Categorie">categoria aggiunta automaticamente</a>&#160;dal <a href="/wiki/Aiuto:Template" title="Aiuto:Template">template</a> &#123;&#123;<a href="/wiki/Template:Bio" title="Template:Bio">Bio</a>&#125;&#125;, quindi è preferibile non inserirla usando il codice <code>[[Categoria:]]</code>, ma tramite l'apposito template all'interno delle voci.
+</td></tr></tbody></table>
+<p>Persone nate nel <a href="/wiki/2000" title="2000">2000</a>.
+</p>
+<div id="interProject" class="toccolours" style="display: none; clear: both; margin-top: 2em"><p id="sisterProjects" style="background-color: #efefef; font-weight: bold; margin: 0"><span>Altri progetti</span></p><ul title="Collegamenti verso gli altri progetti Wikimedia">
+<li class="" title=""><span class="plainlinks" title="commons:Category:2000 births"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:2000_births?uselang=it">Wikimedia Commons</a></span></li></ul></div>
+<ul><li><a href="https://commons.wikimedia.org/wiki/?uselang=it" title="Collabora a Wikimedia Commons"><img alt="Collabora a Wikimedia Commons" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png" decoding="async" width="18" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/27px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/36px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> <span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/?uselang=it">Wikimedia Commons</a></span> contiene una categoria sull'argomento <b><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:2000_births?uselang=it">Nati nel 2000</a></span></b></li></ul>
+<table class="itwiki_template_toc plainlinks" summary="Indice" style="margin:auto">
+<tbody><tr>
+<th>Indice&#160;&#160;
+</th>
+<td><a class="external text" href="https://it.wikipedia.org/wiki/Categoria:Nati_nel_2000">Inizio</a>&#160;&#160;<b>·</b>&#160; <a class="external text" href="https://it.wikipedia.org/w/index.php?title=Categoria:Nati_nel_2000&amp;from=0">0-9</a>&#160;&#160;<b>·</b>&#160; <a class="external text" href="https://it.wikipedia.org/w/index.php?title=Categoria:Nati_nel_2000&amp;from=A">A</a> <a class="external text" href="https://it.wikipedia.org/w/index.php?title=Categoria:Nati_nel_2000&amp;from=B">B</a> <a class="external text" href="https://it.wikipedia.org/w/index.php?title=Categoria:Nati_nel_2000&amp;from=C">C</a> <a class="external text" href="https://it.wikipedia.org/w/index.php?title=Categoria:Nati_nel_2000&amp;from=D">D</a> <a class="external text" href="https://it.wikipedia.org/w/index.php?title=Categoria:Nati_nel_2000&amp;from=E">E</a> <a class="external text" href="https://it.wikipedia.org/w/index.php?title=Categoria:Nati_nel_2000&amp;from=F">F</a> <a class="external text" href="https://it.wikipedia.org/w/index.php?title=Categoria:Nati_nel_2000&amp;from=G">G</a> <a class="external text" href="https://it.wikipedia.org/w/index.php?title=Categoria:Nati_nel_2000&amp;from=H">H</a> <a class="external text" href="https://it.wikipedia.org/w/index.php?title=Categoria:Nati_nel_2000&amp;from=I">I</a> <a class="external text" href="https://it.wikipedia.org/w/index.php?title=Categoria:Nati_nel_2000&amp;from=J">J</a> <a class="external text" href="https://it.wikipedia.org/w/index.php?title=Categoria:Nati_nel_2000&amp;from=K">K</a> <a class="external text" href="https://it.wikipedia.org/w/index.php?title=Categoria:Nati_nel_2000&amp;from=L">L</a> <a class="external text" href="https://it.wikipedia.org/w/index.php?title=Categoria:Nati_nel_2000&amp;from=M">M</a> <a class="external text" href="https://it.wikipedia.org/w/index.php?title=Categoria:Nati_nel_2000&amp;from=N">N</a> <a class="external text" href="https://it.wikipedia.org/w/index.php?title=Categoria:Nati_nel_2000&amp;from=O">O</a> <a class="external text" href="https://it.wikipedia.org/w/index.php?title=Categoria:Nati_nel_2000&amp;from=P">P</a> <a class="external text" href="https://it.wikipedia.org/w/index.php?title=Categoria:Nati_nel_2000&amp;from=Q">Q</a> <a class="external text" href="https://it.wikipedia.org/w/index.php?title=Categoria:Nati_nel_2000&amp;from=R">R</a> <a class="external text" href="https://it.wikipedia.org/w/index.php?title=Categoria:Nati_nel_2000&amp;from=S">S</a> <a class="external text" href="https://it.wikipedia.org/w/index.php?title=Categoria:Nati_nel_2000&amp;from=T">T</a> <a class="external text" href="https://it.wikipedia.org/w/index.php?title=Categoria:Nati_nel_2000&amp;from=U">U</a> <a class="external text" href="https://it.wikipedia.org/w/index.php?title=Categoria:Nati_nel_2000&amp;from=V">V</a> <a class="external text" href="https://it.wikipedia.org/w/index.php?title=Categoria:Nati_nel_2000&amp;from=W">W</a> <a class="external text" href="https://it.wikipedia.org/w/index.php?title=Categoria:Nati_nel_2000&amp;from=X">X</a> <a class="external text" href="https://it.wikipedia.org/w/index.php?title=Categoria:Nati_nel_2000&amp;from=Y">Y</a> <a class="external text" href="https://it.wikipedia.org/w/index.php?title=Categoria:Nati_nel_2000&amp;from=Z">Z</a>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1325
+Cached time: 20200114114557
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.060 seconds
+Real time usage: 0.090 seconds
+Preprocessor visited node count: 177/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 7987/2097152 bytes
+Template argument size: 456/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 14/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.022/10.000 seconds
+Lua memory usage: 864 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   71.968      1 -total
+ 67.76%   48.769      1 Template:Interprogetto
+ 21.66%   15.586      1 Template:Categoria_automatica
+ 13.75%    9.898      1 Template:Avviso_statico_categoria
+ 10.25%    7.376      1 Template:Indice_categoria
+  4.30%    3.095      1 Template:Tl
+  4.24%    3.051      1 Template:Simbolo
+  1.50%    1.080      1 MediaWiki:Toc
+-->
+
+<!-- Saved in parser cache with key itwiki:pcache:idhash:2117122-0!canonical and timestamp 20200114114557 and revision id 105738510
+ -->
+</div><div class="mw-category-generated" lang="it" dir="ltr"><div id="mw-pages">
+<h2>Pagine nella categoria "Nati nel 2000"</h2>
+<p>Questa categoria contiene le 200 pagine indicate di seguito, su un totale di 821.
+</p>(pagina precedente) (<a href="/w/index.php?title=Categoria:Nati_nel_2000&amp;pagefrom=Dixion+%2CMatthew%0AMatthew+Dixon#mw-pages" title="Categoria:Nati nel 2000">pagina successiva</a>)<div lang="it" dir="ltr" class="mw-content-ltr"><div class="mw-category"><div class="mw-category-group"><h3> </h3>
+<ul><li><a href="/wiki/Nati_nel_2000" title="Nati nel 2000">Nati nel 2000</a></li></ul></div><div class="mw-category-group"><h3>A</h3>
+<ul><li><a href="/wiki/Max_Aarons" title="Max Aarons">Max Aarons</a></li>
+<li><a href="/wiki/Brenden_Aaronson" title="Brenden Aaronson">Brenden Aaronson</a></li>
+<li><a href="/wiki/Uta_Abe" title="Uta Abe">Uta Abe</a></li>
+<li><a href="/wiki/Charles_Abi" title="Charles Abi">Charles Abi</a></li>
+<li><a href="/wiki/Cedric_Abossolo" title="Cedric Abossolo">Cedric Abossolo</a></li>
+<li><a href="/wiki/Zakaria_Aboukhlal" title="Zakaria Aboukhlal">Zakaria Aboukhlal</a></li>
+<li><a href="/wiki/Angel_Gomes" title="Angel Gomes">Angel Gomes</a></li>
+<li><a href="/wiki/Akor_Adams" title="Akor Adams">Akor Adams</a></li>
+<li><a href="/wiki/CJ_Adams" title="CJ Adams">CJ Adams</a></li>
+<li><a href="/wiki/Enoch_Adegoke" title="Enoch Adegoke">Enoch Adegoke</a></li>
+<li><a href="/wiki/Yacine_Adli" title="Yacine Adli">Yacine Adli</a></li>
+<li><a href="/wiki/Gamid_Agalarov" title="Gamid Agalarov">Gamid Agalarov</a></li>
+<li><a href="/wiki/Destanee_Aiava" title="Destanee Aiava">Destanee Aiava</a></li>
+<li><a href="/wiki/Emanuel_Aiwu" title="Emanuel Aiwu">Emanuel Aiwu</a></li>
+<li><a href="/wiki/Mansor_Al-Beshe" title="Mansor Al-Beshe">Mansor Al-Beshe</a></li>
+<li><a href="/wiki/Firas_Al-Buraikan" title="Firas Al-Buraikan">Firas Al-Buraikan</a></li>
+<li><a href="/wiki/Khalid_Al-Ghannam" title="Khalid Al-Ghannam">Khalid Al-Ghannam</a></li>
+<li><a href="/wiki/Abdulrahman_Al-Shammari_(calciatore_2000)" title="Abdulrahman Al-Shammari (calciatore 2000)">Abdulrahman Al-Shammari (calciatore 2000)</a></li>
+<li><a href="/wiki/Nasser_Al_Yazidi" title="Nasser Al Yazidi">Nasser Al Yazidi</a></li>
+<li><a href="/wiki/Lucas_Alarc%C3%B3n" title="Lucas Alarcón">Lucas Alarcón</a></li>
+<li><a href="/wiki/Carlotta_Alberghini" title="Carlotta Alberghini">Carlotta Alberghini</a></li>
+<li><a href="/wiki/Tucker_Albrizzi" title="Tucker Albrizzi">Tucker Albrizzi</a></li>
+<li><a href="/wiki/Simone_Alessio" title="Simone Alessio">Simone Alessio</a></li>
+<li><a href="/wiki/Aidan_Alexander" title="Aidan Alexander">Aidan Alexander</a></li>
+<li><a href="/wiki/Hashim_Ali" title="Hashim Ali">Hashim Ali</a></li>
+<li><a href="/wiki/Ignacio_Aliseda" title="Ignacio Aliseda">Ignacio Aliseda</a></li>
+<li><a href="/wiki/Diogo_Almeida" title="Diogo Almeida">Diogo Almeida</a></li>
+<li><a href="/wiki/Agust%C3%ADn_Almendra" title="Agustín Almendra">Agustín Almendra</a></li>
+<li><a href="/wiki/Carlos_Aloc%C3%A9n" title="Carlos Alocén">Carlos Alocén</a></li>
+<li><a href="/wiki/Giacomo_Alto%C3%A8" title="Giacomo Altoè">Giacomo Altoè</a></li>
+<li><a href="/wiki/Juli%C3%A1n_%C3%81lvarez" title="Julián Álvarez">Julián Álvarez</a></li>
+<li><a href="/wiki/Gast%C3%B3n_%C3%81lvarez" title="Gastón Álvarez">Gastón Álvarez</a></li>
+<li><a href="/wiki/Gulzhigit_Alykulov" title="Gulzhigit Alykulov">Gulzhigit Alykulov</a></li>
+<li><a href="/wiki/Frankie_Amaya" title="Frankie Amaya">Frankie Amaya</a></li>
+<li><a href="/wiki/Matteo_Ambrosin" title="Matteo Ambrosin">Matteo Ambrosin</a></li>
+<li><a href="/wiki/Mohamed_Amissi" title="Mohamed Amissi">Mohamed Amissi</a></li>
+<li><a href="/wiki/Ethan_Ampadu" title="Ethan Ampadu">Ethan Ampadu</a></li>
+<li><a href="/wiki/Benson_Anang" title="Benson Anang">Benson Anang</a></li>
+<li><a href="/wiki/Bianca_Andreescu" title="Bianca Andreescu">Bianca Andreescu</a></li>
+<li><a href="/wiki/Candela_And%C3%BAjar" title="Candela Andújar">Candela Andújar</a></li>
+<li><a href="/wiki/Juan_%C3%81ngeles" title="Juan Ángeles">Juan Ángeles</a></li>
+<li><a href="/wiki/Isaac_Angking" title="Isaac Angking">Isaac Angking</a></li>
+<li><a href="/wiki/Louie_Annesley" title="Louie Annesley">Louie Annesley</a></li>
+<li><a href="/wiki/Cole_Anthony" title="Cole Anthony">Cole Anthony</a></li>
+<li><a href="/wiki/Manuel_Ant%C3%B3nio_(canoista)" title="Manuel António (canoista)">Manuel António (canoista)</a></li>
+<li><a href="/wiki/Valentin_Antov" title="Valentin Antov">Valentin Antov</a></li>
+<li><a href="/wiki/Roberta_Aprile" title="Roberta Aprile">Roberta Aprile</a></li>
+<li><a href="/wiki/Emiliana_Arango" title="Emiliana Arango">Emiliana Arango</a></li>
+<li><a href="/wiki/Maximiliano_Ara%C3%BAjo" title="Maximiliano Araújo">Maximiliano Araújo</a></li>
+<li><a href="/wiki/Tony_Arbolino" title="Tony Arbolino">Tony Arbolino</a></li>
+<li><a href="/wiki/Jefferson_Arce" title="Jefferson Arce">Jefferson Arce</a></li>
+<li><a href="/wiki/Blas_Armoa" title="Blas Armoa">Blas Armoa</a></li>
+<li><a href="/wiki/Marcus_Armstrong" title="Marcus Armstrong">Marcus Armstrong</a></li>
+<li><a href="/wiki/Jann-Fiete_Arp" title="Jann-Fiete Arp">Jann-Fiete Arp</a></li>
+<li><a href="/wiki/Gustavo_Assun%C3%A7%C3%A3o" title="Gustavo Assunção">Gustavo Assunção</a></li>
+<li><a href="/wiki/Eduardo_Assun%C3%A7%C3%A3o" title="Eduardo Assunção">Eduardo Assunção</a></li>
+<li><a href="/wiki/Minna_Atherton" title="Minna Atherton">Minna Atherton</a></li>
+<li><a href="/wiki/Merve_Atl%C4%B1er" title="Merve Atlıer">Merve Atlıer</a></li>
+<li><a href="/wiki/F%C3%A9lix_Auger-Aliassime" title="Félix Auger-Aliassime">Félix Auger-Aliassime</a></li></ul></div><div class="mw-category-group"><h3>B</h3>
+<ul><li><a href="/wiki/Glen_Baadjies" title="Glen Baadjies">Glen Baadjies</a></li>
+<li><a href="/wiki/Selma_Bacha" title="Selma Bacha">Selma Bacha</a></li>
+<li><a href="/wiki/Tom%C3%A1s_Badaloni" title="Tomás Badaloni">Tomás Badaloni</a></li>
+<li><a href="/wiki/Preston_Bailey" title="Preston Bailey">Preston Bailey</a></li>
+<li><a href="/wiki/Luka_Bajic" title="Luka Bajic">Luka Bajic</a></li>
+<li><a href="/wiki/Andr%C3%A9s_Balanta" title="Andrés Balanta">Andrés Balanta</a></li>
+<li><a href="/wiki/Aleksander_Balcerowski" title="Aleksander Balcerowski">Aleksander Balcerowski</a></li>
+<li><a href="/wiki/Sara_Baldi" title="Sara Baldi">Sara Baldi</a></li>
+<li><a href="/wiki/Michael_Baldisimo" title="Michael Baldisimo">Michael Baldisimo</a></li>
+<li><a href="/wiki/Phoebe_Banks" title="Phoebe Banks">Phoebe Banks</a></li>
+<li><a href="/wiki/Bianca_Giulia_Bardin" title="Bianca Giulia Bardin">Bianca Giulia Bardin</a></li>
+<li><a href="/wiki/Selemon_Barega" title="Selemon Barega">Selemon Barega</a></li>
+<li><a href="/wiki/Simone_Barlaam" title="Simone Barlaam">Simone Barlaam</a></li>
+<li><a href="/wiki/Alerrandro" title="Alerrandro">Alerrandro</a></li>
+<li><a href="/wiki/%C3%81lvaro_Barreal" title="Álvaro Barreal">Álvaro Barreal</a></li>
+<li><a href="/wiki/Leandro_Barreiro" title="Leandro Barreiro">Leandro Barreiro</a></li>
+<li><a href="/wiki/Jos%C3%A9_Barreto" title="José Barreto">José Barreto</a></li>
+<li><a href="/wiki/R.J._Barrett" title="R.J. Barrett">R.J. Barrett</a></li>
+<li><a href="/wiki/Darius_Bazley" title="Darius Bazley">Darius Bazley</a></li>
+<li><a href="/wiki/Keishon_Bean" title="Keishon Bean">Keishon Bean</a></li>
+<li><a href="/wiki/Raoul_Bellanova" title="Raoul Bellanova">Raoul Bellanova</a></li>
+<li><a href="/wiki/Adrian_Benedyczak" title="Adrian Benedyczak">Adrian Benedyczak</a></li>
+<li><a href="/wiki/Alexandro_Bernabei" title="Alexandro Bernabei">Alexandro Bernabei</a></li>
+<li><a href="/wiki/Jacob_Bertrand" title="Jacob Bertrand">Jacob Bertrand</a></li>
+<li><a href="/wiki/Davide_Bettella" title="Davide Bettella">Davide Bettella</a></li>
+<li><a href="/wiki/Louis_Beyer" title="Louis Beyer">Louis Beyer</a></li>
+<li><a href="/wiki/Augustin_Bianchini" title="Augustin Bianchini">Augustin Bianchini</a></li>
+<li><a href="/wiki/Giulian_Biancone" title="Giulian Biancone">Giulian Biancone</a></li>
+<li><a href="/wiki/Dar%27ja_Bilodid" title="Dar&#039;ja Bilodid">Dar&#039;ja Bilodid</a></li>
+<li><a href="/wiki/Maame_Biney" title="Maame Biney">Maame Biney</a></li>
+<li><a href="/wiki/Chiara_Bissig" title="Chiara Bissig">Chiara Bissig</a></li>
+<li><a href="/wiki/Roko_Bla%C5%BEevi%C4%87" title="Roko Blažević">Roko Blažević</a></li>
+<li><a href="/wiki/Sacha_Boey" title="Sacha Boey">Sacha Boey</a></li>
+<li><a href="/wiki/Jayden_Bogle" title="Jayden Bogle">Jayden Bogle</a></li>
+<li><a href="/wiki/Jos%C3%A9_Bol%C3%ADvar" title="José Bolívar">José Bolívar</a></li>
+<li><a href="/wiki/Leandro_Bolmaro" title="Leandro Bolmaro">Leandro Bolmaro</a></li>
+<li><a href="/wiki/Elliot_Bonds" title="Elliot Bonds">Elliot Bonds</a></li>
+<li><a href="/wiki/Erik_Botheim" title="Erik Botheim">Erik Botheim</a></li>
+<li><a href="/wiki/Sven_Botman" title="Sven Botman">Sven Botman</a></li>
+<li><a href="/wiki/Mohamed_Bouchouari" title="Mohamed Bouchouari">Mohamed Bouchouari</a></li>
+<li><a href="/wiki/Othman_Boussaid" title="Othman Boussaid">Othman Boussaid</a></li>
+<li><a href="/wiki/Lea_Boy" title="Lea Boy">Lea Boy</a></li>
+<li><a href="/wiki/Marine_Boyer" title="Marine Boyer">Marine Boyer</a></li>
+<li><a href="/wiki/Borut_Bo%C5%BEi%C4%8D_(sciatore)" title="Borut Božič (sciatore)">Borut Božič (sciatore)</a></li>
+<li><a href="/wiki/Lucas_Braathen" title="Lucas Braathen">Lucas Braathen</a></li>
+<li><a href="/wiki/Nora_Brand" title="Nora Brand">Nora Brand</a></li>
+<li><a href="/wiki/Ethan_Britto" title="Ethan Britto">Ethan Britto</a></li>
+<li><a href="/wiki/Umberto_Bronzo" title="Umberto Bronzo">Umberto Bronzo</a></li>
+<li><a href="/wiki/Javaughn_Brookes" title="Javaughn Brookes">Javaughn Brookes</a></li>
+<li><a href="/wiki/Klara_B%C3%BChl" title="Klara Bühl">Klara Bühl</a></li>
+<li><a href="/wiki/Thomas_Buitink" title="Thomas Buitink">Thomas Buitink</a></li>
+<li><a href="/wiki/Ezequiel_Bullaude" title="Ezequiel Bullaude">Ezequiel Bullaude</a></li>
+<li><a href="/wiki/Valent%C3%ADn_Burgoa" title="Valentín Burgoa">Valentín Burgoa</a></li>
+<li><a href="/wiki/Jonathan_Burkardt" title="Jonathan Burkardt">Jonathan Burkardt</a></li>
+<li><a href="/wiki/Sofia_Busato" title="Sofia Busato">Sofia Busato</a></li>
+<li><a href="/wiki/Ezequiel_Busquets" title="Ezequiel Busquets">Ezequiel Busquets</a></li>
+<li><a href="/wiki/Alessandro_Busti" title="Alessandro Busti">Alessandro Busti</a></li>
+<li><a href="/wiki/Hayden_Byerly" title="Hayden Byerly">Hayden Byerly</a></li></ul></div><div class="mw-category-group"><h3>C</h3>
+<ul><li><a href="/wiki/Liberato_Cacace" title="Liberato Cacace">Liberato Cacace</a></li>
+<li><a href="/wiki/Justin_Baas" title="Justin Baas">Justin Baas</a></li>
+<li><a href="/wiki/D%C3%A9iber_Caicedo" title="Déiber Caicedo">Déiber Caicedo</a></li>
+<li><a href="/wiki/Laura_Calgani" title="Laura Calgani">Laura Calgani</a></li>
+<li><a href="/wiki/Mohamed_Camara" title="Mohamed Camara">Mohamed Camara</a></li>
+<li><a href="/wiki/Leonardo_Campana" title="Leonardo Campana">Leonardo Campana</a></li>
+<li><a href="/wiki/Antonio_Candela" title="Antonio Candela">Antonio Candela</a></li>
+<li><a href="/wiki/Vincenzo_Cantiello" title="Vincenzo Cantiello">Vincenzo Cantiello</a></li>
+<li><a href="/wiki/Maxence_Caqueret" title="Maxence Caqueret">Maxence Caqueret</a></li>
+<li><a href="/wiki/Jade_Carey" title="Jade Carey">Jade Carey</a></li>
+<li><a href="/wiki/Marco_Carnesecchi" title="Marco Carnesecchi">Marco Carnesecchi</a></li>
+<li><a href="/wiki/Ellie_Carpenter" title="Ellie Carpenter">Ellie Carpenter</a></li>
+<li><a href="/wiki/Juli%C3%A1n_Carranza" title="Julián Carranza">Julián Carranza</a></li>
+<li><a href="/wiki/Matthew_Carter_(tuffatore)" title="Matthew Carter (tuffatore)">Matthew Carter (tuffatore)</a></li>
+<li><a href="/wiki/Gustavo_Carvajal" title="Gustavo Carvajal">Gustavo Carvajal</a></li>
+<li><a href="/wiki/Cristian_C%C3%A1sseres_Jr." title="Cristian Cásseres Jr.">Cristian Cásseres Jr.</a></li>
+<li><a href="/wiki/Oc%C3%A9ane_Cassignol" title="Océane Cassignol">Océane Cassignol</a></li>
+<li><a href="/wiki/Nicolas_Castelnovo" title="Nicolas Castelnovo">Nicolas Castelnovo</a></li>
+<li><a href="/wiki/Luka_Cerovina" title="Luka Cerovina">Luka Cerovina</a></li>
+<li><a href="/wiki/Thom%C3%A1s_Chac%C3%B3n" title="Thomás Chacón">Thomás Chacón</a></li>
+<li><a href="/wiki/Gerson_Ch%C3%A1vez" title="Gerson Chávez">Gerson Chávez</a></li>
+<li><a href="/wiki/Pawat_Chittsawangdee" title="Pawat Chittsawangdee">Pawat Chittsawangdee</a></li>
+<li><a href="/wiki/Choi_Da-bin" title="Choi Da-bin">Choi Da-bin</a></li>
+<li><a href="/wiki/Mathieu_Choini%C3%A8re" title="Mathieu Choinière">Mathieu Choinière</a></li>
+<li><a href="/wiki/Yohan_Choupas" title="Yohan Choupas">Yohan Choupas</a></li>
+<li><a href="/wiki/Tobias_Christensen" title="Tobias Christensen">Tobias Christensen</a></li>
+<li><a href="/wiki/Heorhij_Citai%C5%A1vili" title="Heorhij Citaišvili">Heorhij Citaišvili</a></li>
+<li><a href="/wiki/Laia_Codina" title="Laia Codina">Laia Codina</a></li>
+<li><a href="/wiki/Facundo_Colidio" title="Facundo Colidio">Facundo Colidio</a></li>
+<li><a href="/wiki/Ebrima_Colley" title="Ebrima Colley">Ebrima Colley</a></li>
+<li><a href="/wiki/Jean_Carlos_Colorado" title="Jean Carlos Colorado">Jean Carlos Colorado</a></li>
+<li><a href="/wiki/Aaron_Connolly" title="Aaron Connolly">Aaron Connolly</a></li>
+<li><a href="/wiki/Luca_Conti_(cestista)" title="Luca Conti (cestista)">Luca Conti (cestista)</a></li>
+<li><a href="/wiki/Mason_Cook" title="Mason Cook">Mason Cook</a></li>
+<li><a href="/wiki/Brandon_Cooper" title="Brandon Cooper">Brandon Cooper</a></li>
+<li><a href="/wiki/Lincoln_Corr%C3%AAa_dos_Santos" title="Lincoln Corrêa dos Santos">Lincoln Corrêa dos Santos</a></li>
+<li><a href="/wiki/Maxwell_Perry_Cotton" title="Maxwell Perry Cotton">Maxwell Perry Cotton</a></li>
+<li><a href="/wiki/Auli%CA%BBi_Cravalho" title="Auliʻi Cravalho">Auliʻi Cravalho</a></li>
+<li><a href="/wiki/Chloe_Csengery" title="Chloe Csengery">Chloe Csengery</a></li>
+<li><a href="/wiki/Tom%C3%A1s_Cuello" title="Tomás Cuello">Tomás Cuello</a></li>
+<li><a href="/wiki/Darko_%C4%8Curlinov" title="Darko Čurlinov">Darko Čurlinov</a></li>
+<li><a href="/wiki/Agust%C3%ADn_Curruhinca" title="Agustín Curruhinca">Agustín Curruhinca</a></li>
+<li><a href="/wiki/Noah_Cyrus" title="Noah Cyrus">Noah Cyrus</a></li></ul></div><div class="mw-category-group"><h3>D</h3>
+<ul><li><a href="/wiki/Brenna_D%27Amico" title="Brenna D&#039;Amico">Brenna D&#039;Amico</a></li>
+<li><a href="/wiki/Bruno_da_Silva_Costa" title="Bruno da Silva Costa">Bruno da Silva Costa</a></li>
+<li><a href="/wiki/Vit%C3%A3o" title="Vitão">Vitão</a></li>
+<li><a href="/wiki/Rhuan" title="Rhuan">Rhuan</a></li>
+<li><a href="/wiki/Mikkel_Damsgaard" title="Mikkel Damsgaard">Mikkel Damsgaard</a></li>
+<li><a href="/wiki/Hima_Das" title="Hima Das">Hima Das</a></li>
+<li><a href="/wiki/Jonathan_David" title="Jonathan David">Jonathan David</a></li>
+<li><a href="/wiki/Alphonso_Davies" title="Alphonso Davies">Alphonso Davies</a></li>
+<li><a href="/wiki/Mohammed_Dawood_Yaseen" title="Mohammed Dawood Yaseen">Mohammed Dawood Yaseen</a></li>
+<li><a href="/wiki/Mirco_De_Angelis" title="Mirco De Angelis">Mirco De Angelis</a></li>
+<li><a href="/wiki/Tjay_De_Barr" title="Tjay De Barr">Tjay De Barr</a></li>
+<li><a href="/wiki/M%C3%A9lanie_de_Jesus_dos_Santos" title="Mélanie de Jesus dos Santos">Mélanie de Jesus dos Santos</a></li>
+<li><a href="/wiki/Roberto_de_la_Rosa" title="Roberto de la Rosa">Roberto de la Rosa</a></li>
+<li><a href="/wiki/Aurora_De_Sanctis" title="Aurora De Sanctis">Aurora De Sanctis</a></li>
+<li><a href="/wiki/Alan_Souza" title="Alan Souza">Alan Souza</a></li>
+<li><a href="/wiki/Marco_De_Tullio" title="Marco De Tullio">Marco De Tullio</a></li>
+<li><a href="/wiki/Thomas_Dean" title="Thomas Dean">Thomas Dean</a></li>
+<li><a href="/wiki/Devlin_DeFrancesco" title="Devlin DeFrancesco">Devlin DeFrancesco</a></li>
+<li><a href="/wiki/Younes_Delfi" title="Younes Delfi">Younes Delfi</a></li>
+<li><a href="/wiki/Vito_Dell%27Aquila" title="Vito Dell&#039;Aquila">Vito Dell&#039;Aquila</a></li>
+<li><a href="/wiki/Vesel_Demaku" title="Vesel Demaku">Vesel Demaku</a></li>
+<li><a href="/wiki/K%C3%A9vin_Denkey" title="Kévin Denkey">Kévin Denkey</a></li>
+<li><a href="/wiki/Mona_McSharry" title="Mona McSharry">Mona McSharry</a></li>
+<li><a href="/wiki/Armin_%C4%90erlek" title="Armin Đerlek">Armin Đerlek</a></li>
+<li><a href="/wiki/Nina_Derwael" title="Nina Derwael">Nina Derwael</a></li>
+<li><a href="/wiki/Desiree_Carofiglio" title="Desiree Carofiglio">Desiree Carofiglio</a></li>
+<li><a href="/wiki/Sergi%C3%B1o_Dest" title="Sergiño Dest">Sergiño Dest</a></li>
+<li><a href="/wiki/Coline_Devillard" title="Coline Devillard">Coline Devillard</a></li>
+<li><a href="/wiki/Abdoulaye_Diaby" title="Abdoulaye Diaby">Abdoulaye Diaby</a></li>
+<li><a href="/wiki/Ousmane_Diakit%C3%A9" title="Ousmane Diakité">Ousmane Diakité</a></li>
+<li><a href="/wiki/Mamady_Diarra" title="Mamady Diarra">Mamady Diarra</a></li>
+<li><a href="/wiki/Alexander_D%C3%ADaz" title="Alexander Díaz">Alexander Díaz</a></li>
+<li><a href="/wiki/Carlos_Ter%C3%A1n_(calciatore)" title="Carlos Terán (calciatore)">Carlos Terán (calciatore)</a></li>
+<li><a href="/wiki/Antonio_Alejandro_D%C3%ADaz_Campos" title="Antonio Alejandro Díaz Campos">Antonio Alejandro Díaz Campos</a></li>
+<li><a href="/wiki/Omar_Dieng" title="Omar Dieng">Omar Dieng</a></li>
+<li><a href="/wiki/Romane_Dieu" title="Romane Dieu">Romane Dieu</a></li>
+<li><a href="/wiki/Karlton_Dimanche" title="Karlton Dimanche">Karlton Dimanche</a></li>
+<li><a href="/wiki/Ousmane_Diop_(cestista)" title="Ousmane Diop (cestista)">Ousmane Diop (cestista)</a></li>
+<li><a href="/wiki/Sofiane_Diop" title="Sofiane Diop">Sofiane Diop</a></li></ul></div></div></div>(pagina precedente) (<a href="/w/index.php?title=Categoria:Nati_nel_2000&amp;pagefrom=Dixion+%2CMatthew%0AMatthew+Dixon#mw-pages" title="Categoria:Nati nel 2000">pagina successiva</a>)
+</div></div><noscript><img src="//it.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Estratto da "<a dir="ltr" href="https://it.wikipedia.org/w/index.php?title=Categoria:Nati_nel_2000&amp;oldid=105738510">https://it.wikipedia.org/w/index.php?title=Categoria:Nati_nel_2000&amp;oldid=105738510</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Categoria:Categorie" title="Categoria:Categorie">Categorie</a>: <ul><li><a href="/wiki/Categoria:Eventi_del_2000" title="Categoria:Eventi del 2000">Eventi del 2000</a></li><li><a href="/wiki/Categoria:Nati_nel_XX_secolo" title="Categoria:Nati nel XX secolo">Nati nel XX secolo</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-ns-shown">Categoria nascosta: <ul><li><a href="/wiki/Categoria:Categorie_aggiunte_automaticamente_dai_template" title="Categoria:Categorie aggiunte automaticamente dai template">Categorie aggiunte automaticamente dai template</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Menu di navigazione</h2>
+			<div id="mw-head">
+						<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+			<h3 id="p-personal-label">Strumenti personali</h3>
+			<ul>
+				<li id="pt-anonuserpage">Accesso non effettuato</li><li id="pt-anontalk"><a href="/wiki/Speciale:MieDiscussioni" title="Discussioni sulle modifiche fatte da questo indirizzo IP [n]" accesskey="n">discussioni</a></li><li id="pt-anoncontribs"><a href="/wiki/Speciale:MieiContributi" title="Un elenco delle modifiche fatte da questo indirizzo IP [y]" accesskey="y">contributi</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Speciale:CreaUtenza&amp;returnto=Categoria%3ANati+nel+2000" title="Si consiglia di registrarsi e di effettuare l&#039;accesso, anche se non è obbligatorio">registrati</a></li><li id="pt-login"><a href="/w/index.php?title=Speciale:Entra&amp;returnto=Categoria%3ANati+nel+2000" title="Si consiglia di effettuare l&#039;accesso, anche se non è obbligatorio [o]" accesskey="o">entra</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespace</h3>
+	<ul >
+		<li id="ca-nstab-category" class="selected"><a href="/wiki/Categoria:Nati_nel_2000" title="Vedi la pagina della categoria [c]" accesskey="c">Categoria</a></li><li id="ca-talk" class="new"><a href="/w/index.php?title=Discussioni_categoria:Nati_nel_2000&amp;action=edit&amp;redlink=1" rel="discussion" title="Vedi le discussioni relative a questa pagina (la pagina non esiste) [t]" accesskey="t">Discussione</a></li>
+	</ul>
+</div>
+		<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+			<h3 id="p-variants-label">
+				<span>Varianti</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Visite</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/Categoria:Nati_nel_2000">Leggi</a></li><li id="ca-ve-edit" class="collapsible"><a href="/w/index.php?title=Categoria:Nati_nel_2000&amp;veaction=edit" title="Modifica questa pagina [v]" accesskey="v">Modifica</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Categoria:Nati_nel_2000&amp;action=edit" title="Modifica questa pagina [e]" accesskey="e">Modifica wikitesto</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Categoria:Nati_nel_2000&amp;action=history" title="Versioni precedenti di questa pagina [h]" accesskey="h">Cronologia</a></li>
+	</ul>
+</div>
+		<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+			<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+			<h3 id="p-cactions-label"><span>Altro</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Ricerca</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Cerca in Wikipedia" title="Cerca in Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Speciale:Ricerca" name="title"/>
+			
+			<input type="submit" name="fulltext" value="Ricerca" title="Cerca il testo indicato nelle pagine" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Vai" title="Vai a una pagina con il titolo indicato, se esiste" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Pagina_principale" title="Visita la pagina principale"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigazione</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage"><a href="/wiki/Pagina_principale" title="Visita la pagina principale [z]" accesskey="z">Pagina principale</a></li><li id="n-recentchanges"><a href="/wiki/Speciale:UltimeModifiche" title="Elenco delle ultime modifiche del sito [r]" accesskey="r">Ultime modifiche</a></li><li id="n-randompage"><a href="/wiki/Speciale:PaginaCasuale" title="Mostra una pagina a caso [x]" accesskey="x">Una voce a caso</a></li><li id="n-mobile-frontend-nearby-title"><a href="/wiki/Speciale:NelleVicinanze">Nelle vicinanze</a></li><li id="n-vetrina"><a href="/wiki/Wikipedia:Vetrina">Vetrina</a></li><li id="n-help"><a href="/wiki/Aiuto:Aiuto" title="Pagine di aiuto">Aiuto</a></li><li id="n-Sportello-informazioni"><a href="/wiki/Aiuto:Sportello_informazioni">Sportello informazioni</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-Comunità" aria-labelledby="p-Comunità-label">
+			<h3 id="p-Comunità-label">Comunità</h3>
+			<div class="body">
+								<ul>
+					<li id="n-portal"><a href="/wiki/Portale:Comunit%C3%A0" title="Descrizione del progetto, cosa puoi fare, dove trovare le cose">Portale Comunità</a></li><li id="n-villagepump"><a href="/wiki/Wikipedia:Bar">Bar</a></li><li id="n-wikipediano"><a href="/wiki/Wikipedia:Wikipediano">Il Wikipediano</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_it.wikipedia.org&amp;uselang=it" title="Sostienici">Fai una donazione</a></li><li id="n-contactpage"><a href="/wiki/Wikipedia:Contatti">Contatti</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Strumenti</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Speciale:PuntanoQui/Categoria:Nati_nel_2000" title="Elenco di tutte le pagine che sono collegate a questa [j]" accesskey="j">Puntano qui</a></li><li id="t-recentchangeslinked"><a href="/wiki/Speciale:ModificheCorrelate/Categoria:Nati_nel_2000" rel="nofollow" title="Elenco delle ultime modifiche alle pagine collegate a questa [k]" accesskey="k">Modifiche correlate</a></li><li id="t-specialpages"><a href="/wiki/Speciale:PagineSpeciali" title="Elenco di tutte le pagine speciali [q]" accesskey="q">Pagine speciali</a></li><li id="t-permalink"><a href="/w/index.php?title=Categoria:Nati_nel_2000&amp;oldid=105738510" title="Collegamento permanente a questa versione della pagina">Link permanente</a></li><li id="t-info"><a href="/w/index.php?title=Categoria:Nati_nel_2000&amp;action=info" title="Ulteriori informazioni su questa pagina">Informazioni pagina</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6648148" title="Collegamento all&#039;elemento connesso dell&#039;archivio dati [g]" accesskey="g">Elemento Wikidata</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In altri progetti</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:2000_births" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Stampa/esporta</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Speciale:Libro&amp;bookcmd=book_creator&amp;referer=Categoria%3ANati+nel+2000">Crea un libro</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Speciale:ElectronPdf&amp;page=Categoria%3ANati+nel+2000&amp;action=show-download-screen">Scarica come PDF</a></li><li id="t-print"><a href="/w/index.php?title=Categoria:Nati_nel_2000&amp;printable=yes" title="Versione stampabile di questa pagina [p]" accesskey="p">Versione stampabile</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">In altre lingue</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ab"><a href="https://ab.wikipedia.org/wiki/%D0%90%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B0:2000_%D1%88%D1%8B%D2%9B%D3%99%D1%81%D0%B0%D0%B7%D1%8B_%D0%B8%D0%B8%D0%B7" title="Акатегориа:2000 шықәсазы ииз - abcaso" lang="ab" hreflang="ab" class="interlanguage-link-target">Аҧсшәа</a></li><li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Kategorie:Geboortes_in_2000" title="Kategorie:Geboortes in 2000 - afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Categor%C3%ADa:2000_(naixencias)" title="Categoría:2000 (naixencias) - aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81:%D9%85%D9%88%D8%A7%D9%84%D9%8A%D8%AF_2000" title="تصنيف:مواليد 2000 - arabo" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81:%D9%85%D9%88%D8%A7%D9%84%D9%8A%D8%AF_2000" title="تصنيف:مواليد 2000 - arabo egiziano" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Categor%C3%ADa:Nac%C3%ADos_en_2000" title="Categoría:Nacíos en 2000 - asturiano" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Kateqoriya:2000-ci_ild%C9%99_do%C4%9Fulanlar" title="Kateqoriya:2000-ci ildə doğulanlar - azerbaigiano" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%A8%D8%A4%D9%84%D9%85%D9%87:%DB%B2%DB%B0%DB%B0%DB%B0-%D8%AC%DB%8C_%D9%85%DB%8C%D9%84%D8%A7%D8%AF%DB%8C_%D8%A7%DB%8C%D9%84%D8%AF%D9%87_%D8%AF%D9%88%D8%BA%D9%88%D9%84%D8%A7%D9%86%E2%80%8C%D9%84%D8%A7%D8%B1" title="بؤلمه:۲۰۰۰-جی میلادی ایلده دوغولان‌لار - South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:2000_%D0%B9%D1%8B%D0%BB%D0%B4%D0%B0_%D1%82%D1%8B%D1%83%D2%93%D0%B0%D0%BD%D0%B4%D0%B0%D1%80" title="Категория:2000 йылда тыуғандар - baschiro" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D1%8D%D0%B3%D0%BE%D1%80%D1%8B%D1%8F:%D0%9D%D0%B0%D1%80%D0%B0%D0%B4%D0%B7%D1%96%D0%BB%D1%96%D1%81%D1%8F_%D1%9E_2000_%D0%B3%D0%BE%D0%B4%D0%B7%D0%B5" title="Катэгорыя:Нарадзіліся ў 2000 годзе - bielorusso" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D1%8D%D0%B3%D0%BE%D1%80%D1%8B%D1%8F:%D0%9D%D0%B0%D1%80%D0%B0%D0%B4%D0%B7%D1%96%D0%BB%D1%96%D1%81%D1%8F_%D1%9E_2000_%D0%B3%D0%BE%D0%B4%D0%B7%D0%B5" title="Катэгорыя:Нарадзіліся ў 2000 годзе - Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B8_%D0%BF%D1%80%D0%B5%D0%B7_2000_%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0" title="Категория:Родени през 2000 година - bulgaro" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A3%E0%A5%80:2000_%E0%A4%AE%E0%A5%87%E0%A4%82_%E0%A4%9C%E0%A4%A8%E0%A4%AE" title="श्रेणी:2000 में जनम - Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li><li class="interlanguage-link interwiki-bjn"><a href="https://bjn.wikipedia.org/wiki/Tumbung:Kalahiran_2000" title="Tumbung:Kalahiran 2000 - banjar" lang="bjn" hreflang="bjn" class="interlanguage-link-target">Banjar</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A6%AF%E0%A6%BC%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A7%80:%E0%A7%A8%E0%A7%A6%E0%A7%A6%E0%A7%A6-%E0%A6%8F_%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AE" title="বিষয়শ্রেণী:২০০০-এ জন্ম - bengalese" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-bpy"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%A5%E0%A6%BE%E0%A6%95:%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A6%BF_%E0%A7%A8%E0%A7%A6%E0%A7%A6%E0%A7%A6-%E0%A6%8F_%E0%A6%89%E0%A6%9C%E0%A7%8D%E0%A6%9C%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%A4%E0%A6%BE" title="থাক:মারি ২০০০-এ উজ্জিসিতা - bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target">বিষ্ণুপ্রিয়া মণিপুরী</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Rummad:Ganedigezhio%C3%B9_2000" title="Rummad:Ganedigezhioù 2000 - bretone" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Kategorija:Ro%C4%91eni_2000." title="Kategorija:Rođeni 2000. - bosniaco" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-cdo"><a href="https://cdo.wikipedia.org/wiki/%E5%88%86%E9%A1%9E:2000_ni%C3%A8ng_ch%C3%B3k-si%C3%A9" title="分類:2000 nièng chók-sié - Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target">Mìng-dĕ̤ng-ngṳ̄</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D9%BE%DB%86%D9%84:%D9%84%DB%95%D8%AF%D8%A7%DB%8C%DA%A9%D8%A8%D9%88%D9%88%D8%A7%D9%86%DB%8C_%D9%A2%D9%A0%D9%A0%D9%A0" title="پۆل:لەدایکبووانی ٢٠٠٠ - curdo sorani" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Kategorie:Narozen%C3%AD_2000" title="Kategorie:Narození 2000 - ceco" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8:2000_%C3%A7%D1%83%D0%BB%D1%82%D0%B0_%C3%A7%D1%83%D1%80%D0%B0%D0%BB%D0%BD%D0%B8%D1%81%D0%B5%D0%BC" title="Категори:2000 çулта çуралнисем - ciuvascio" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Categori:Genedigaethau_2000" title="Categori:Genedigaethau 2000 - gallese" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Kategori:F%C3%B8dt_i_2000" title="Kategori:Født i 2000 - danese" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Kategorie:Geboren_2000" title="Kategorie:Geboren 2000 - tedesco" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-dsb"><a href="https://dsb.wikipedia.org/wiki/Kategorija:Ro%C5%BA._2000" title="Kategorija:Roź. 2000 - basso sorabo" lang="dsb" hreflang="dsb" class="interlanguage-link-target">Dolnoserbski</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Category:2000_births" title="Category:2000 births - inglese" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Kategorio:Naski%C4%9Dintoj_en_2000" title="Kategorio:Naskiĝintoj en 2000 - esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Categor%C3%ADa:Nacidos_en_2000" title="Categoría:Nacidos en 2000 - spagnolo" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Kategooria:S%C3%BCndinud_2000" title="Kategooria:Sündinud 2000 - estone" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Kategoria:2000ko_jaiotzak" title="Kategoria:2000ko jaiotzak - basco" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B1%D8%AF%D9%87:%D8%B2%D8%A7%D8%AF%DA%AF%D8%A7%D9%86_%DB%B2%DB%B0%DB%B0%DB%B0_(%D9%85%DB%8C%D9%84%D8%A7%D8%AF%DB%8C)" title="رده:زادگان ۲۰۰۰ (میلادی) - persiano" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Luokka:Vuonna_2000_syntyneet" title="Luokka:Vuonna 2000 syntyneet - finlandese" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/B%C3%B3lkur:F%C3%B8%C3%B0ingar_%C3%AD_2000" title="Bólkur:Føðingar í 2000 - faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Naissance_en_2000" title="Catégorie:Naissance en 2000 - francese" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Kategory:Persoan_berne_yn_2000" title="Kategory:Persoan berne yn 2000 - frisone occidentale" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Catag%C3%B3ir:Daoine_a_rugadh_i_2000" title="Catagóir:Daoine a rugadh i 2000 - irlandese" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gan"><a href="https://gan.wikipedia.org/wiki/%E5%88%86%E9%A1%9E:2000%E5%B9%B4%E5%87%BA%E4%B8%96" title="分類:2000年出世 - gan" lang="gan" hreflang="gan" class="interlanguage-link-target">贛語</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Categor%C3%ADa:Nados_en_2000" title="Categoría:Nados en 2000 - galiziano" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-haw"><a href="https://haw.wikipedia.org/wiki/M%C4%81hele:H%C4%81naunian_mai_2000" title="Māhele:Hānaunian mai 2000 - hawaiano" lang="haw" hreflang="haw" class="interlanguage-link-target">Hawaiʻi</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%99%D7%9C%D7%99%D7%93%D7%99_2000" title="קטגוריה:ילידי 2000 - ebraico" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A3%E0%A5%80:2000_%E0%A4%AE%E0%A5%87%E0%A4%82_%E0%A4%9C%E0%A4%A8%E0%A5%8D%E0%A4%AE%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%97" title="श्रेणी:2000 में जन्मे लोग - hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hif"><a href="https://hif.wikipedia.org/wiki/vibhag:2000_janam" title="vibhag:2000 janam - hindi figiano" lang="hif" hreflang="hif" class="interlanguage-link-target">Fiji Hindi</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Kateg%C3%B3ria:2000-ben_sz%C3%BCletett_szem%C3%A9lyek" title="Kategória:2000-ben született személyek - ungherese" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%BF%D5%A1%D5%BF%D5%A5%D5%A3%D5%B8%D6%80%D5%AB%D5%A1:2000_%D5%AE%D5%B6%D5%B8%D6%82%D5%B6%D5%A4%D5%B6%D5%A5%D6%80" title="Կատեգորիա:2000 ծնունդներ - armeno" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hyw"><a href="https://hyw.wikipedia.org/wiki/%D5%8D%D5%BF%D5%B8%D6%80%D5%B8%D5%A3%D5%B8%D6%82%D5%A9%D5%AB%D6%82%D5%B6:2000_%D5%AE%D5%B6%D5%B8%D6%82%D5%B6%D5%A4%D5%B6%D5%A5%D6%80" title="Ստորոգութիւն:2000 ծնունդներ - Western Armenian" lang="hyw" hreflang="hyw" class="interlanguage-link-target">Արեւմտահայերէն</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Kategori:Kelahiran_2000" title="Kategori:Kelahiran 2000 - indonesiano" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/Kategoria:2000_a_pannakaipasngay" title="Kategoria:2000 a pannakaipasngay - ilocano" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Flokkur:F%C3%B3lk_f%C3%A6tt_%C3%A1ri%C3%B0_2000" title="Flokkur:Fólk fætt árið 2000 - islandese" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Category:2000%E5%B9%B4%E7%94%9F" title="Category:2000年生 - giapponese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Kategori:Lair_2000" title="Kategori:Lair 2000 - giavanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%99%E1%83%90%E1%83%A2%E1%83%94%E1%83%92%E1%83%9D%E1%83%A0%E1%83%98%E1%83%90:%E1%83%93%E1%83%90%E1%83%91%E1%83%90%E1%83%93%E1%83%94%E1%83%91%E1%83%A3%E1%83%9A%E1%83%98_2000" title="კატეგორია:დაბადებული 2000 - georgiano" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%B0%D1%82:2000_%D0%B6%D1%8B%D0%BB%D1%8B_%D1%82%D1%83%D2%93%D0%B0%D0%BD%D0%B4%D0%B0%D1%80" title="Санат:2000 жылы туғандар - kazako" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B6%84%EB%A5%98:2000%EB%85%84_%ED%83%9C%EC%96%B4%EB%82%A8" title="분류:2000년 태어남 - coreano" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Categoria:Nati_2000" title="Categoria:Nati 2000 - latino" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Kategorie:Gebuer_2000" title="Kategorie:Gebuer 2000 - lussemburghese" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-ln"><a href="https://ln.wikipedia.org/wiki/Cat%C3%A9gorie:Mb%C3%B3tama_na_2000" title="Catégorie:Mbótama na 2000 - lingala" lang="ln" hreflang="ln" class="interlanguage-link-target">Lingála</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Kategorija:2000._gad%C4%81_dzimu%C5%A1ie" title="Kategorija:2000. gadā dzimušie - lettone" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Sokajy:Teraka_tamin%27ny_taona_2000" title="Sokajy:Teraka tamin&#039;ny taona 2000 - malgascio" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%98%D0%B0:%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B8_%D0%B2%D0%BE_2000_%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0" title="Категорија:Родени во 2000 година - macedone" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B5%E0%B5%BC%E0%B4%97%E0%B5%8D%E0%B4%97%E0%B4%82:2000-%E0%B5%BD_%E0%B4%9C%E0%B4%A8%E0%B4%BF%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%B5%E0%B5%BC" title="വർഗ്ഗം:2000-ൽ ജനിച്ചവർ - malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%97:%E0%A4%87.%E0%A4%B8._%E0%A5%A8%E0%A5%A6%E0%A5%A6%E0%A5%A6_%E0%A4%AE%E0%A4%A7%E0%A5%80%E0%A4%B2_%E0%A4%9C%E0%A4%A8%E0%A5%8D%E0%A4%AE_-_%E0%A4%AF%E0%A4%BE_%E0%A4%B2%E0%A5%87%E0%A4%96%E0%A4%BE%E0%A4%9A%E0%A5%87_%E0%A4%B8%E0%A4%82%E0%A4%AA%E0%A4%BE%E0%A4%A6%E0%A4%A8" title="वर्ग:इ.स. २००० मधील जन्म - या लेखाचे संपादन - marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Kategori:Kelahiran_2000" title="Kategori:Kelahiran 2000 - malese" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-mt"><a href="https://mt.wikipedia.org/wiki/Kategorija:Twieldu_fl-2000" title="Kategorija:Twieldu fl-2000 - maltese" lang="mt" hreflang="mt" class="interlanguage-link-target">Malti</a></li><li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%81%82%E1%81%80%E1%81%80%E1%81%80_%E1%80%99%E1%80%BD%E1%80%B1%E1%80%B8%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8%E1%80%9E%E1%80%B0%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8" title="ကဏ္ဍ:၂၀၀၀ မွေးဖွားသူများ - birmano" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nah"><a href="https://nah.wikipedia.org/wiki/Neneuhc%C4%81y%C5%8Dtl:Otlacatqueh_xiuhpan_2000" title="Neneuhcāyōtl:Otlacatqueh xiuhpan 2000 - Nāhuatl" lang="nah" hreflang="nah" class="interlanguage-link-target">Nāhuatl</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Kategorie:Boren_2000" title="Kategorie:Boren 2000 - basso tedesco" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Kategori:F%C3%B8dde_i_2000" title="Kategori:Fødde i 2000 - norvegese nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Kategori:F%C3%B8dsler_i_2000" title="Kategori:Fødsler i 2000 - norvegese bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nrm"><a href="https://nrm.wikipedia.org/wiki/Cat%C3%A9gorie:Naita%C3%A9_en_2000" title="Catégorie:Naitaé en 2000 - Norman" lang="nrf" hreflang="nrf" class="interlanguage-link-target">Nouormand</a></li><li class="interlanguage-link interwiki-ny"><a href="https://ny.wikipedia.org/wiki/Category:2000_kubadwa" title="Category:2000 kubadwa - nyanja" lang="ny" hreflang="ny" class="interlanguage-link-target">Chi-Chewa</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Categoria:Naissen%C3%A7a_en_2000" title="Categoria:Naissença en 2000 - occitano" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%B8%E0%A8%BC%E0%A9%8D%E0%A8%B0%E0%A9%87%E0%A8%A3%E0%A9%80:%E0%A8%9C%E0%A8%A8%E0%A8%AE_2000" title="ਸ਼੍ਰੇਣੀ:ਜਨਮ 2000 - punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Category:2000_kebaitan" title="Category:2000 kebaitan - pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Kategoria:Urodzeni_w_2000" title="Kategoria:Urodzeni w 2000 - polacco" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%DA%AF%D9%B9%DA%BE:2000_%D8%AF%DB%92_%D8%AC%D9%85" title="گٹھ:2000 دے جم - Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Categoria:Nascidos_em_2000" title="Categoria:Nascidos em 2000 - portoghese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Categorie:Na%C8%99teri_%C3%AEn_2000" title="Categorie:Nașteri în 2000 - rumeno" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_2000_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Родившиеся в 2000 году - russo" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sa"><a href="https://sa.wikipedia.org/wiki/%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%83:%E0%A5%A8%E0%A5%A6%E0%A5%A6%E0%A5%A6_%E0%A4%9C%E0%A4%A8%E0%A4%A8%E0%A4%AE%E0%A5%8D" title="वर्गः:२००० जननम् - sanscrito" lang="sa" hreflang="sa" class="interlanguage-link-target">संस्कृतम्</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Category:2000_births" title="Category:2000 births - scozzese" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-se"><a href="https://se.wikipedia.org/wiki/Kategoriija:Rieg%C3%A1deamit_2000" title="Kategoriija:Riegádeamit 2000 - sami del nord" lang="se" hreflang="se" class="interlanguage-link-target">Davvisámegiella</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Kategorija:Ro%C4%91eni_2000." title="Kategorija:Rođeni 2000. - serbo-croato" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Category:2000_births" title="Category:2000 births - Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Kateg%C3%B3ria:Narodenia_v_2000" title="Kategória:Narodenia v 2000 - slovacco" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Kategorija:Rojeni_leta_2000" title="Kategorija:Rojeni leta 2000 - sloveno" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Kategoria:Lindje_2000" title="Kategoria:Lindje 2000 - albanese" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%98%D0%B0:%D0%A0%D0%BE%D1%92%D0%B5%D0%BD%D0%B8_2000." title="Категорија:Рођени 2000. - serbo" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Kategori:Nu_babar_taun_2000" title="Kategori:Nu babar taun 2000 - sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Sunda</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Kategori:F%C3%B6dda_2000" title="Kategori:Födda 2000 - svedese" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Jamii:Waliozaliwa_2000" title="Jamii:Waliozaliwa 2000 - swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%95%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81:2000_%E0%AE%AA%E0%AE%BF%E0%AE%B1%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D" title="பகுப்பு:2000 பிறப்புகள் - tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%B5%E0%B0%B0%E0%B1%8D%E0%B0%97%E0%B0%82:2000_%E0%B0%9C%E0%B0%A8%E0%B0%A8%E0%B0%BE%E0%B0%B2%E0%B1%81" title="వర్గం:2000 జననాలు - telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%93%D1%83%D1%80%D3%AF%D2%B3:%D0%97%D0%BE%D0%B4%D0%B0%D0%B3%D0%BE%D0%BD%D0%B8_%D1%81%D0%BE%D0%BB%D0%B8_2000" title="Гурӯҳ:Зодагони соли 2000 - tagico" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%9A%E0%B8%B8%E0%B8%84%E0%B8%84%E0%B8%A5%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94%E0%B9%83%E0%B8%99%E0%B8%9B%E0%B8%B5_%E0%B8%9E.%E0%B8%A8._2543" title="หมวดหมู่:บุคคลที่เกิดในปี พ.ศ. 2543 - thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Kategorya:Ipinanganak_noong_2000" title="Kategorya:Ipinanganak noong 2000 - tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Kategori:2000_do%C4%9Fumlular" title="Kategori:2000 doğumlular - turco" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%A2%D3%A9%D1%80%D0%BA%D0%B5%D0%BC:2000_%D0%B5%D0%BB%D0%B4%D0%B0_%D1%82%D1%83%D0%B3%D0%B0%D0%BD%D0%BD%D0%B0%D1%80" title="Төркем:2000 елда туганнар - tataro" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%B8%D0%BB%D0%B8%D1%81%D1%8C_2000" title="Категорія:Народились 2000 - ucraino" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%B2%D9%85%D8%B1%DB%81:2000%D8%A1_%DA%A9%DB%8C_%D9%BE%DB%8C%D8%AF%D8%A7%D8%A6%D8%B4%DB%8C%DA%BA" title="زمرہ:2000ء کی پیدائشیں - urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Turkum:2000-yilda_tug%CA%BBilganlar" title="Turkum:2000-yilda tugʻilganlar - uzbeco" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-vep"><a href="https://vep.wikipedia.org/wiki/Kategorii:S%C3%BCndnuded_vl_2000" title="Kategorii:Sündnuded vl 2000 - vepso" lang="vep" hreflang="vep" class="interlanguage-link-target">Vepsän kel’</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Sinh_2000" title="Thể loại:Sinh 2000 - vietnamita" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Klad:Moteds_%C3%BCn_2000" title="Klad:Moteds ün 2000 - volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Kaarangay:Mga_natawo_han_2000" title="Kaarangay:Mga natawo han 2000 - waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/%E1%BA%B8%CC%80ka:%C3%80w%E1%BB%8Dn_%E1%BB%8Dj%E1%BB%8D%CC%81%C3%ACb%C3%AD_n%C3%AD_2000" title="Ẹ̀ka:Àwọn ọjọ́ìbí ní 2000 - yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Category:2000%E5%B9%B4%E5%87%BA%E7%94%9F" title="Category:2000年出生 - cinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/L%C5%ABi-pia%CC%8Dt:2000_n%C3%AE_chhut-s%C3%AC" title="Lūi-pia̍t:2000 nî chhut-sì - Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/Category:2000%E5%B9%B4%E5%87%BA%E4%B8%96" title="Category:2000年出世 - Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6648148#sitelinks-wikipedia" title="Modifica collegamenti interlinguistici" class="wbc-editpage">Modifica collegamenti</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> Questa pagina è stata modificata per l'ultima volta il&#160;17 giu 2019 alle 15:00.</li>
+								<li id="footer-info-copyright">Il testo è disponibile secondo la <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.it">licenza Creative Commons Attribuzione-Condividi allo stesso modo</a>; possono applicarsi condizioni ulteriori. Vedi le <a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/it">condizioni d'uso</a> per i dettagli.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/it" class="extiw" title="m:Privacy policy/it">Informativa sulla privacy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:Sala_stampa/Wikipedia" title="Wikipedia:Sala stampa/Wikipedia">Informazioni su Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:Avvertenze_generali" title="Wikipedia:Avvertenze generali">Avvertenze</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Sviluppatori</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/it.wikipedia.org">Statistiche</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Dichiarazione sui cookie</a></li>
+								<li id="footer-places-mobileview"><a href="//it.m.wikipedia.org/w/index.php?title=Categoria:Nati_nel_2000&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versione mobile</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.060","walltime":"0.090","ppvisitednodes":{"value":177,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":7987,"limit":2097152},"templateargumentsize":{"value":456,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":14,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%   71.968      1 -total"," 67.76%   48.769      1 Template:Interprogetto"," 21.66%   15.586      1 Template:Categoria_automatica"," 13.75%    9.898      1 Template:Avviso_statico_categoria"," 10.25%    7.376      1 Template:Indice_categoria","  4.30%    3.095      1 Template:Tl","  4.24%    3.051      1 Template:Simbolo","  1.50%    1.080      1 MediaWiki:Toc"]},"scribunto":{"limitreport-timeusage":{"value":"0.022","limit":"10.000"},"limitreport-memusage":{"value":884704,"limit":52428800}},"cachereport":{"origin":"mw1325","timestamp":"20200114114557","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":274,"wgHostname":"mw1325"});});</script>
+</body>
+</html>

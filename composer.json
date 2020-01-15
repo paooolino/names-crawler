@@ -7,5 +7,9 @@
     "require-dev": {
         "phpspec/phpspec": "^6.1",
         "phpstan/phpstan": "^0.12.4"
+    },
+    "require": {
+        "voku/simple_html_dom": "^4.7",
+        "voku/portable-utf8": "^5.4"
     }
 }
