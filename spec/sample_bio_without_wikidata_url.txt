@@ -1,0 +1,753 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="it" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Max Aarons - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","gennaio","febbraio","marzo","aprile","maggio","giugno","luglio","agosto","settembre","ottobre","novembre","dicembre"],"wgMonthNamesShort":["","gen","feb","mar","apr","mag","giu","lug","ago","set","ott","nov","dic"],"wgRequestId":"XiAmXQpAAEQAACYCXYYAAACG","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Max_Aarons","wgTitle":"Max Aarons","wgCurRevisionId":109354244,"wgRevisionId":109354244,"wgArticleId":8104360,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["P18 letta da Wikidata","P2048 uguale su Wikidata","P2067 assente su Wikidata","Persone viventi","BioBot","P2446 letta da Wikidata","P2369 letta da Wikidata","P2020 letta da Wikidata",
+"P2193 letta da Wikidata","Calciatori del Luton Town F.C.","Calciatori del Norwich City F.C.","Calciatori britannici","Nati nel 2000","Nati il 4 gennaio","Nati a Londra"],"wgPageContentLanguage":"it","wgPageContentModel":"wikitext","wgRelevantPageName":"Max_Aarons","wgRelevantArticleId":8104360,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"it","pageLanguageDir":"ltr","pageVariantFallbacks":"it"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"italiano","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q56641599","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.PDCStriker":"ready",
+"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.HiddenCat","ext.gadget.watchlist-notice","ext.gadget.OpenStreetMap","ext.gadget.ReferenceTooltips","ext.gadget.WikiMiniAtlas","ext.gadget.ExternalSearch",
+"ext.gadget.Form-valutazione-enc","ext.gadget.NewSection","ext.gadget.SimilarTitles","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1mrx5",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"it"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=it&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=it&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=it&amp;modules=ext.gadget.PDCStriker&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=it&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.14"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/7/78/Norwich_2_Chelsea_3_-_Max_Aarons.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/it.m.wikipedia.org/wiki/Max_Aarons"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//it.m.wikipedia.org/wiki/Max_Aarons"/>
+<link rel="alternate" type="application/x-wiki" title="Modifica" href="/w/index.php?title=Max_Aarons&amp;action=edit"/>
+<link rel="edit" title="Modifica" href="/w/index.php?title=Max_Aarons&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (it)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//it.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://it.wikipedia.org/wiki/Max_Aarons"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Max_Aarons rootpage-Max_Aarons skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="it">Max Aarons</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">Da Wikipedia, l&#039;enciclopedia libera.</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="it" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="sinottico" style="width:25em;">
+
+<tbody><tr class="sinottico_testata">
+<th colspan="3" style="background:#ABCDEF;">Max Aarons
+</th></tr>
+<tr>
+<td colspan="3" style="text-align:center"><div class="center"><div class="floatnone"><a href="/wiki/File:Norwich_2_Chelsea_3_-_Max_Aarons.jpg" class="image"><img alt="Norwich 2 Chelsea 3 - Max Aarons.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Norwich_2_Chelsea_3_-_Max_Aarons.jpg/169px-Norwich_2_Chelsea_3_-_Max_Aarons.jpg" decoding="async" width="169" height="300" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Norwich_2_Chelsea_3_-_Max_Aarons.jpg/254px-Norwich_2_Chelsea_3_-_Max_Aarons.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Norwich_2_Chelsea_3_-_Max_Aarons.jpg/339px-Norwich_2_Chelsea_3_-_Max_Aarons.jpg 2x" data-file-width="650" data-file-height="1150" /></a></div></div>
+</td></tr>
+<tr>
+<th width="25%">
+</th>
+<th width="50%">
+</th>
+<th width="25%">
+</th></tr>
+<tr>
+<th>Nazionalità
+</th>
+<td colspan="2"><span style="white-space:nowrap"><a href="/wiki/File:Flag_of_England.svg" class="image" title="Inghilterra"><img alt="Inghilterra" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/20px-Flag_of_England.svg.png" decoding="async" width="20" height="12" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/30px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/40px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" /></a>&#160;</span><a href="/wiki/Inghilterra" title="Inghilterra">Inghilterra</a>
+</td></tr>
+<tr>
+<th>Altezza
+</th>
+<td colspan="2">178 <a href="/wiki/Metro" title="Metro">cm</a>
+</td></tr>
+<tr>
+<th>Peso
+</th>
+<td colspan="2">69 <a href="/wiki/Chilogrammo" title="Chilogrammo">kg</a>
+</td></tr>
+<tr class="sinottico_divisione">
+<th colspan="3" style="background:#DDEEFF;"><a href="/wiki/Calcio_(sport)" title="Calcio (sport)">Calcio</a> <a href="/wiki/File:Football_pictogram.svg" class="image"><img alt="Football pictogram.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Football_pictogram.svg/25px-Football_pictogram.svg.png" decoding="async" width="25" height="25" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Football_pictogram.svg/38px-Football_pictogram.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Football_pictogram.svg/50px-Football_pictogram.svg.png 2x" data-file-width="300" data-file-height="300" /></a>
+</th></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<th>Ruolo
+</th>
+<td colspan="2"><a href="/wiki/Difensore_(calcio)" title="Difensore (calcio)">Difensore</a>
+</td></tr>
+
+
+<tr>
+<th>Squadra
+</th>
+<td colspan="2"><span style="white-space:nowrap" class="metadata"><a href="/wiki/File:600px_Giallo_e_Verde2-Flag.svg" class="image" title="Norwich City"><img alt="Norwich City" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/600px_Giallo_e_Verde2-Flag.svg/20px-600px_Giallo_e_Verde2-Flag.svg.png" decoding="async" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/600px_Giallo_e_Verde2-Flag.svg/30px-600px_Giallo_e_Verde2-Flag.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/600px_Giallo_e_Verde2-Flag.svg/40px-600px_Giallo_e_Verde2-Flag.svg.png 2x" data-file-width="600" data-file-height="400" /></a>&#160;</span><a href="/wiki/Norwich_City_Football_Club" title="Norwich City Football Club">Norwich City</a>
+</td></tr>
+
+
+<tr class="sinottico_divisione">
+<th colspan="3" style="background:#DDEEFF;">Carriera
+</th></tr>
+<tr class="sinottico_divisione">
+<th colspan="3">Giovanili
+</th></tr><tr style="background:#FFF;"><td>2009-2016</td><td colspan="2"><span style="white-space:nowrap" class="metadata"><a href="/wiki/File:600px_chequered_HEX-FF7F2A_HEX-002255_with_White_Latin_cross.svg" class="image" title="Luton Town"><img alt="Luton Town" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/600px_chequered_HEX-FF7F2A_HEX-002255_with_White_Latin_cross.svg/20px-600px_chequered_HEX-FF7F2A_HEX-002255_with_White_Latin_cross.svg.png" decoding="async" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/600px_chequered_HEX-FF7F2A_HEX-002255_with_White_Latin_cross.svg/30px-600px_chequered_HEX-FF7F2A_HEX-002255_with_White_Latin_cross.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/600px_chequered_HEX-FF7F2A_HEX-002255_with_White_Latin_cross.svg/40px-600px_chequered_HEX-FF7F2A_HEX-002255_with_White_Latin_cross.svg.png 2x" data-file-width="600" data-file-height="400" /></a>&#160;</span><a href="/wiki/Luton_Town_Football_Club" title="Luton Town Football Club">Luton Town</a></td></tr><tr style="background:#FFF;"><td>2016-2018</td><td colspan="2"><span style="white-space:nowrap" class="metadata"><a href="/wiki/File:600px_Giallo_e_Verde2-Flag.svg" class="image" title="Norwich City"><img alt="Norwich City" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/600px_Giallo_e_Verde2-Flag.svg/20px-600px_Giallo_e_Verde2-Flag.svg.png" decoding="async" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/600px_Giallo_e_Verde2-Flag.svg/30px-600px_Giallo_e_Verde2-Flag.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/600px_Giallo_e_Verde2-Flag.svg/40px-600px_Giallo_e_Verde2-Flag.svg.png 2x" data-file-width="600" data-file-height="400" /></a>&#160;</span><a href="/wiki/Norwich_City_Football_Club" title="Norwich City Football Club">Norwich City</a></td></tr>
+
+<tr class="sinottico_divisione">
+<th colspan="3">Squadre di club<sup>1</sup>
+</th></tr><tr style="background:#FFF;"><td>2018-</td><td><span style="white-space:nowrap" class="metadata"><a href="/wiki/File:600px_Giallo_e_Verde2-Flag.svg" class="image" title="Norwich City"><img alt="Norwich City" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/600px_Giallo_e_Verde2-Flag.svg/20px-600px_Giallo_e_Verde2-Flag.svg.png" decoding="async" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/600px_Giallo_e_Verde2-Flag.svg/30px-600px_Giallo_e_Verde2-Flag.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/600px_Giallo_e_Verde2-Flag.svg/40px-600px_Giallo_e_Verde2-Flag.svg.png 2x" data-file-width="600" data-file-height="400" /></a>&#160;</span><a href="/wiki/Norwich_City_Football_Club" title="Norwich City Football Club">Norwich City</a></td><td>55 (2)
+</td></tr>
+
+<tr class="sinottico_divisione">
+<th colspan="3">Nazionale
+</th></tr><tr style="background:#FFF;"><td>2018-2019</td><td><a href="/wiki/File:Flag_of_England.svg" class="image" title="Inghilterra"><img alt="Inghilterra" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/20px-Flag_of_England.svg.png" decoding="async" width="20" height="12" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/30px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/40px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" /></a>&#160;<a href="/wiki/Nazionale_Under-19_di_calcio_dell%27Inghilterra" title="Nazionale Under-19 di calcio dell&#39;Inghilterra">Inghilterra U-19</a></td><td>7 (0)
+ </td></tr><tr style="background:#FFF;"><td>2019-</td><td><a href="/wiki/File:Flag_of_England.svg" class="image" title="Inghilterra"><img alt="Inghilterra" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/20px-Flag_of_England.svg.png" decoding="async" width="20" height="12" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/30px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/40px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" /></a>&#160;<a href="/wiki/Nazionale_Under-21_di_calcio_dell%27Inghilterra" title="Nazionale Under-21 di calcio dell&#39;Inghilterra">Inghilterra U-21</a></td><td>5 (0)
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td colspan="3" style="text-align:center; background: #EFEFEF;"><small><sup>1</sup> I due numeri indicano le presenze e le reti segnate, per le sole partite di campionato.<br /></small><small>Il simbolo → indica un trasferimento in prestito.</small>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="sinottico_piede">
+<td colspan="3" style="background: #ABCDEF;">Statistiche aggiornate al&#32;10 dicembre 2019
+</td></tr>
+<tr class="sinottico_piede2 noprint nomobile metadata">
+<td colspan="3"><a href="https://www.wikidata.org/wiki/Q56641599" class="extiw" title="d:Q56641599"><span title="Modifica i dati della voce Max Aarons su Wikidata">Modifica dati su Wikidata</span></a><span style="font-weight:bold;">&#160;·</span> <a href="/wiki/Template:Sportivo/man" title="Template:Sportivo/man"><span title="Manuale del template Sportivo">Manuale</span></a>
+</td></tr></tbody></table>
+<p><b>Maximilian James “Max” Aarons</b> (<a href="/wiki/Londra" title="Londra">Londra</a>, <a href="/wiki/4_gennaio" title="4 gennaio">4 gennaio</a> <a href="/wiki/2000" title="2000">2000</a>) è un <a href="/wiki/Calciatore" title="Calciatore">calciatore</a> <a href="/wiki/Inghilterra" title="Inghilterra">inglese</a>, <a href="/wiki/Difensore_(calcio)" title="Difensore (calcio)">difensore</a> del  <a href="/wiki/Norwich_City_Football_Club" title="Norwich City Football Club">Norwich City</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="it" dir="ltr"><h2>Indice</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biografia"><span class="tocnumber">1</span> <span class="toctext">Biografia</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Caratteristiche_tecniche"><span class="tocnumber">2</span> <span class="toctext">Caratteristiche tecniche</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Carriera"><span class="tocnumber">3</span> <span class="toctext">Carriera</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Statistiche"><span class="tocnumber">4</span> <span class="toctext">Statistiche</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Presenze_e_reti_nei_club"><span class="tocnumber">4.1</span> <span class="toctext">Presenze e reti nei club</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Cronologia_presenze_e_reti_in_nazionale"><span class="tocnumber">4.2</span> <span class="toctext">Cronologia presenze e reti in nazionale</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Palmarès"><span class="tocnumber">5</span> <span class="toctext">Palmarès</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Club"><span class="tocnumber">5.1</span> <span class="toctext">Club</span></a>
+<ul>
+<li class="toclevel-3 tocsection-9"><a href="#Competizioni_nazionali"><span class="tocnumber">5.1.1</span> <span class="toctext">Competizioni nazionali</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Note"><span class="tocnumber">6</span> <span class="toctext">Note</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Altri_progetti"><span class="tocnumber">7</span> <span class="toctext">Altri progetti</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Collegamenti_esterni"><span class="tocnumber">8</span> <span class="toctext">Collegamenti esterni</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biografia">Biografia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Max_Aarons&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Modifica la sezione Biografia">modifica</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Max_Aarons&amp;action=edit&amp;section=1" title="Modifica la sezione Biografia">modifica wikitesto</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>È cugino di <a href="/wiki/Rolando_Aarons" title="Rolando Aarons">Rolando Aarons</a>, anch'esso calciatore professionista.
+</p>
+<h2><span class="mw-headline" id="Caratteristiche_tecniche">Caratteristiche tecniche</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Max_Aarons&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Modifica la sezione Caratteristiche tecniche">modifica</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Max_Aarons&amp;action=edit&amp;section=2" title="Modifica la sezione Caratteristiche tecniche">modifica wikitesto</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Terzino" class="mw-redirect" title="Terzino">Terzino</a> destro adattabile anche sulla sinistra, è dotato di grande accelerazione e di un ottimo controllo palla. Più abile nella fase offensiva che in quella difensiva, viene paragonato al connazionale <a href="/wiki/Kieran_Trippier" title="Kieran Trippier">Kieran Trippier</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Carriera">Carriera</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Max_Aarons&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Modifica la sezione Carriera">modifica</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Max_Aarons&amp;action=edit&amp;section=3" title="Modifica la sezione Carriera">modifica wikitesto</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Cresciuto nei settori giovanili di <a href="/wiki/Luton_Town_Football_Club" title="Luton Town Football Club">Luton Town</a> e <a href="/wiki/Norwich_City_Football_Club" title="Norwich City Football Club">Norwich City</a>, il 13 giugno <a href="/wiki/2018" title="2018">2018</a> firma il primo contratto professionistico con i <i>Canaries</i>, di durata triennale.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> Il 14 agosto esordisce in prima squadra, nella partita di <a href="/wiki/English_Football_League_Cup_2018-2019" title="English Football League Cup 2018-2019">Coppa di Lega</a> vinta per 3-1 contro lo <a href="/wiki/Stevenage_Football_Club" title="Stevenage Football Club">Stevenage</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> Due settimane più tardi segna la prima rete in carriera, nell'incontro valido per il secondo turno della Coppa di Lega vinto per 1-3 contro il <a href="/wiki/Cardiff_City_Football_Club" title="Cardiff City Football Club">Cardiff City</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> Dopo essersi imposto come titolare nel ruolo, il 10 ottobre prolunga fino al <a href="/wiki/2023" title="2023">2023</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> Al termine della stagione conquista la promozione in <a href="/wiki/Premier_League" title="Premier League">Premier League</a>, che mancava al club giallo-verde da tre anni.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> Viene inoltre inserito nella migliore formazione del <a href="/wiki/Football_League_Championship" title="Football League Championship">campionato cadetto inglese</a><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> e premiato come miglior giovane della stagione.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Statistiche">Statistiche</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Max_Aarons&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Modifica la sezione Statistiche">modifica</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Max_Aarons&amp;action=edit&amp;section=4" title="Modifica la sezione Statistiche">modifica wikitesto</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Presenze_e_reti_nei_club">Presenze e reti nei club</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Max_Aarons&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Modifica la sezione Presenze e reti nei club">modifica</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Max_Aarons&amp;action=edit&amp;section=5" title="Modifica la sezione Presenze e reti nei club">modifica wikitesto</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i>Statistiche aggiornate al 10 dicembre 2019.</i>
+</p>
+<table class="wikitable center" style="text-align:center; font-size:90%">
+
+<tbody><tr>
+<th rowspan="2">Stagione
+</th>
+<th rowspan="2">Squadra
+</th>
+<th colspan="3">Campionato
+</th>
+<th colspan="3">Coppe nazionali
+</th>
+<th colspan="3">Coppe continentali
+</th>
+<th colspan="3">Altre coppe
+</th>
+<th colspan="3">Totale
+</th></tr>
+<tr>
+<th>Comp
+</th>
+<th>Pres
+</th>
+<th>Reti
+</th>
+<th>Comp
+</th>
+<th>Pres
+</th>
+<th>Reti
+</th>
+<th>Comp
+</th>
+<th>Pres
+</th>
+<th>Reti
+</th>
+<th>Comp
+</th>
+<th>Pres
+</th>
+<th>Reti
+</th>
+<th>Pres
+</th>
+<th>Reti
+</th></tr>
+<tr>
+<td>2018-2019</td>
+<td rowspan="2"><a href="/wiki/File:Flag_of_England.svg" class="image" title="Inghilterra"><img alt="Inghilterra" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/20px-Flag_of_England.svg.png" decoding="async" width="20" height="12" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/30px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/40px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" /></a> <a href="/wiki/Norwich_City_Football_Club" title="Norwich City Football Club">Norwich City</a></td>
+<td><a href="/wiki/Football_League_Championship_2018-2019" title="Football League Championship 2018-2019">FLC</a></td>
+<td>41</td>
+<td>2</td>
+<td><a href="/wiki/FA_Cup_2018-2019" title="FA Cup 2018-2019">FACup</a>+<a href="/wiki/English_Football_League_Cup_2018-2019" title="English Football League Cup 2018-2019">CdL</a></td>
+<td>0+2</td>
+<td>0+1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>43</td>
+<td>3
+</td></tr>
+<tr>
+<td>2019-2020</td>
+<td><a href="/wiki/Premier_League_2019-2020" title="Premier League 2019-2020">PL</a></td>
+<td>14</td>
+<td>0</td>
+<td><a href="/wiki/FA_Cup_2019-2020" title="FA Cup 2019-2020">FACup</a>+<a href="/wiki/English_Football_League_Cup_2019-2020" title="English Football League Cup 2019-2020">CdL</a></td>
+<td>0+1</td>
+<td>0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>4</td>
+<td>0
+</td></tr>
+<tr>
+<th colspan="3">Totale Norwich City</th>
+<th>55</th>
+<th>2</th>
+<th></th>
+<th>3</th>
+<th>1</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th>58</th>
+<th>3
+</th></tr>
+<tr>
+<th colspan="3">Totale carriera</th>
+<th>55</th>
+<th>2</th>
+<th></th>
+<th>3</th>
+<th>1</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th>58</th>
+<th>3
+</th></tr></tbody></table>
+<h3><span class="mw-headline" id="Cronologia_presenze_e_reti_in_nazionale">Cronologia presenze e reti in nazionale</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Max_Aarons&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Modifica la sezione Cronologia presenze e reti in nazionale">modifica</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Max_Aarons&amp;action=edit&amp;section=6" title="Modifica la sezione Cronologia presenze e reti in nazionale">modifica wikitesto</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable" style="font-size:95%; line-height:1.1em; width:100%;">
+
+<tbody><tr>
+<th colspan="8" style="background:#aaaaff; text-align:left">Cronologia completa delle presenze e delle reti in nazionale ― <a href="/wiki/Nazionale_Under-21_di_calcio_dell%27Inghilterra" title="Nazionale Under-21 di calcio dell&#39;Inghilterra">Inghilterra&#32;Under-21</a>
+</th></tr>
+<tr>
+<th data-sort-type="date">Data
+</th>
+<th>Città
+</th>
+<th>In casa
+</th>
+<th>Risultato
+</th>
+<th>Ospiti
+</th>
+<th>Competizione
+</th>
+<th>Reti
+</th>
+<th class="unsortable">Note
+</th></tr>
+<tr align="center">
+<td style="white-space:nowrap">6-9-2019</td>
+<td><a href="/wiki/Izmit" class="mw-redirect" title="Izmit">Izmit</a></td>
+<td align="right"><a href="/wiki/Nazionale_Under-21_di_calcio_della_Turchia" title="Nazionale Under-21 di calcio della Turchia">Turchia &#32;Under-21</a> <a href="/wiki/File:Flag_of_Turkey.svg" class="image" title="Turchia"><img alt="Turchia" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/20px-Flag_of_Turkey.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/30px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/40px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800" /></a></td>
+<td><b>2 – 3</b></td>
+<td align="left"><a href="/wiki/File:Flag_of_England.svg" class="image" title="Inghilterra"><img alt="Inghilterra" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/20px-Flag_of_England.svg.png" decoding="async" width="20" height="12" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/30px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/40px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" /></a>&#160;<a href="/wiki/Nazionale_Under-21_di_calcio_dell%27Inghilterra" title="Nazionale Under-21 di calcio dell&#39;Inghilterra">Inghilterra&#32;Under-21</a></td>
+<td><a href="/wiki/Qualificazioni_al_campionato_europeo_di_calcio_Under-21_2021" title="Qualificazioni al campionato europeo di calcio Under-21 2021">Qual. Europeo Under-21 2021</a></td>
+<td><b>-</b></td>
+<td>
+</td></tr>
+<tr align="center">
+<td style="white-space:nowrap">9-9-2019</td>
+<td><a href="/wiki/Hull" class="mw-disambig" title="Hull">Hull</a></td>
+<td align="right"><a href="/wiki/Nazionale_Under-21_di_calcio_dell%27Inghilterra" title="Nazionale Under-21 di calcio dell&#39;Inghilterra">Inghilterra &#32;Under-21</a> <a href="/wiki/File:Flag_of_England.svg" class="image" title="Inghilterra"><img alt="Inghilterra" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/20px-Flag_of_England.svg.png" decoding="async" width="20" height="12" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/30px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/40px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" /></a></td>
+<td><b>2 – 0</b></td>
+<td align="left"><a href="/wiki/File:Flag_of_Kosovo.svg" class="image" title="Kosovo"><img alt="Kosovo" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/20px-Flag_of_Kosovo.svg.png" decoding="async" width="20" height="14" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/30px-Flag_of_Kosovo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/40px-Flag_of_Kosovo.svg.png 2x" data-file-width="840" data-file-height="600" /></a>&#160;<a href="/wiki/Nazionale_Under-21_di_calcio_del_Kosovo" title="Nazionale Under-21 di calcio del Kosovo">Kosovo&#32;Under-21</a></td>
+<td><a href="/wiki/Qualificazioni_al_campionato_europeo_di_calcio_Under-21_2021" title="Qualificazioni al campionato europeo di calcio Under-21 2021">Qual. Europeo Under-21 2021</a></td>
+<td><b>-</b></td>
+<td>
+</td></tr>
+<tr align="center">
+<td style="white-space:nowrap">11-10-2019</td>
+<td><a href="/wiki/Maribor" title="Maribor">Maribor</a></td>
+<td align="right"><a href="/wiki/Nazionale_Under-21_di_calcio_della_Slovenia" title="Nazionale Under-21 di calcio della Slovenia">Slovenia &#32;Under-21</a> <a href="/wiki/File:Flag_of_Slovenia.svg" class="image" title="Slovenia"><img alt="Slovenia" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/20px-Flag_of_Slovenia.svg.png" decoding="async" width="20" height="10" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/30px-Flag_of_Slovenia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/40px-Flag_of_Slovenia.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></td>
+<td><b>2 – 2</b></td>
+<td align="left"><a href="/wiki/File:Flag_of_England.svg" class="image" title="Inghilterra"><img alt="Inghilterra" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/20px-Flag_of_England.svg.png" decoding="async" width="20" height="12" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/30px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/40px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" /></a>&#160;<a href="/wiki/Nazionale_Under-21_di_calcio_dell%27Inghilterra" title="Nazionale Under-21 di calcio dell&#39;Inghilterra">Inghilterra&#32;Under-21</a></td>
+<td><a href="/wiki/Amichevole" title="Amichevole">Amichevole</a></td>
+<td><b>-</b></td>
+<td>
+</td></tr>
+<tr align="center">
+<td style="white-space:nowrap">15-10-2019</td>
+<td><a href="/wiki/Bletchley" title="Bletchley">Bletchley</a></td>
+<td align="right"><a href="/wiki/Nazionale_Under-21_di_calcio_dell%27Inghilterra" title="Nazionale Under-21 di calcio dell&#39;Inghilterra">Inghilterra &#32;Under-21</a> <a href="/wiki/File:Flag_of_England.svg" class="image" title="Inghilterra"><img alt="Inghilterra" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/20px-Flag_of_England.svg.png" decoding="async" width="20" height="12" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/30px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/40px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" /></a></td>
+<td><b>5 – 1</b></td>
+<td align="left"><a href="/wiki/File:Flag_of_Austria.svg" class="image" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/20px-Flag_of_Austria.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/30px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/40px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a>&#160;<a href="/wiki/Nazionale_Under-21_di_calcio_dell%27Austria" title="Nazionale Under-21 di calcio dell&#39;Austria">Austria&#32;Under-21</a></td>
+<td><a href="/wiki/Qualificazioni_al_campionato_europeo_di_calcio_Under-21_2021" title="Qualificazioni al campionato europeo di calcio Under-21 2021">Qual. Europeo Under-21 2021</a></td>
+<td><b>-</b></td>
+<td>
+</td></tr>
+<tr align="center">
+<td style="white-space:nowrap">19-11-2019</td>
+<td><a href="/wiki/Doetinchem" title="Doetinchem">Doetinchem</a></td>
+<td align="right"><a href="/wiki/Nazionale_Under-21_di_calcio_dei_Paesi_Bassi" title="Nazionale Under-21 di calcio dei Paesi Bassi">Paesi Bassi &#32;Under-21</a> <a href="/wiki/File:Flag_of_the_Netherlands.svg" class="image" title="Paesi Bassi"><img alt="Paesi Bassi" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/20px-Flag_of_the_Netherlands.svg.png" decoding="async" width="20" height="13" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/30px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/40px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></td>
+<td><b>2 – 1</b></td>
+<td align="left"><a href="/wiki/File:Flag_of_England.svg" class="image" title="Inghilterra"><img alt="Inghilterra" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/20px-Flag_of_England.svg.png" decoding="async" width="20" height="12" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/30px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/40px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" /></a>&#160;<a href="/wiki/Nazionale_Under-21_di_calcio_dell%27Inghilterra" title="Nazionale Under-21 di calcio dell&#39;Inghilterra">Inghilterra&#32;Under-21</a></td>
+<td><a href="/wiki/Amichevole" title="Amichevole">Amichevole</a></td>
+<td><b>-</b></td>
+<td>
+</td></tr>
+<tr>
+<th>Totale
+</th>
+<th>
+</th>
+<th>Presenze
+</th>
+<th>5
+</th>
+<th>
+</th>
+<th>Reti
+</th>
+<th>0
+</th>
+<th>
+</th></tr></tbody></table>
+<h2><span id="Palmar.C3.A8s"></span><span class="mw-headline" id="Palmarès">Palmarès</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Max_Aarons&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Modifica la sezione Palmarès">modifica</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Max_Aarons&amp;action=edit&amp;section=7" title="Modifica la sezione Palmarès">modifica wikitesto</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Club">Club</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Max_Aarons&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Modifica la sezione Club">modifica</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Max_Aarons&amp;action=edit&amp;section=8" title="Modifica la sezione Club">modifica wikitesto</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Competizioni_nazionali">Competizioni nazionali</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Max_Aarons&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Modifica la sezione Competizioni nazionali">modifica</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Max_Aarons&amp;action=edit&amp;section=9" title="Modifica la sezione Competizioni nazionali">modifica wikitesto</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><a href="/wiki/Football_League_Championship" title="Football League Championship">Football League Championship</a>: 1</li></ul>
+<dl><dd>Nowrich City: <a href="/wiki/Football_League_Championship_2018-2019" title="Football League Championship 2018-2019">2018-2019</a></dd></dl>
+<h2><span class="mw-headline" id="Note">Note</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Max_Aarons&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Modifica la sezione Note">modifica</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Max_Aarons&amp;action=edit&amp;section=10" title="Modifica la sezione Note">modifica wikitesto</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><a href="#cite_ref-1"><b>^</b></a> <span class="reference-text"><cite class="citation web" style="font-style:normal"> <a rel="nofollow" class="external text" href="http://www.worldfootballscouting.com/giovani-talenti-del-2000/max-aarons-talento-inglese-classe-2000/"><span style="font-style:italic;">Max Aarons: talento inglese classe 2000</span></a>, su <span style="font-style:italic;">worldfootballscouting.com</span>, 12 marzo 2019.</cite></span>
+</li>
+<li id="cite_note-2"><a href="#cite_ref-2"><b>^</b></a> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.canaries.co.uk/News/2018/june/max-aarons-pro-deal/">Max Aarons signs first professional contract</a> canaries.co.uk</span>
+</li>
+<li id="cite_note-3"><a href="#cite_ref-3"><b>^</b></a> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.transfermarkt.it/spielbericht/index/spielbericht/3051581">Norwich City-Stevenage 3-1</a> transfermarkt.it</span>
+</li>
+<li id="cite_note-4"><a href="#cite_ref-4"><b>^</b></a> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.transfermarkt.it/spielbericht/index/spielbericht/3093817">Cardiff City-Norwich City 1-3</a> transfermarkt.it</span>
+</li>
+<li id="cite_note-5"><a href="#cite_ref-5"><b>^</b></a> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.canaries.co.uk/News/2018/october/max-aarons-contract/#">Max Aarons rewarded with new deal at Norwich City</a> canaries.co.uk</span>
+</li>
+<li id="cite_note-6"><a href="#cite_ref-6"><b>^</b></a> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.gazzetta.it/Calcio/Premier-League/22-04-2019/norwich-promosso-premier-canaries-promossi-pukki-killer-ultimi-15-330965984058.shtml">Norwich promosso in Premier: Canaries promossi con Pukki, killer degli ultimi 15'</a> gazzetta.it</span>
+</li>
+<li id="cite_note-7"><a href="#cite_ref-7"><b>^</b></a> <span class="reference-text"><cite class="citation web" style="font-style:normal">(<span style="font-weight:bolder; font-size:80%"><abbr title="inglese">EN</abbr></span>) <a rel="nofollow" class="external text" href="https://www.bbc.com/sport/football/47710254"><span style="font-style:italic;">EFL awards: Che Adams, Teemu Pukki &amp; Billy Sharp on Championship shortlist</span></a>, su <span style="font-style:italic;">bbc.com</span>, 26 marzo 2019.</cite></span>
+</li>
+<li id="cite_note-8"><a href="#cite_ref-8"><b>^</b></a> <span class="reference-text"><cite class="citation web" style="font-style:normal">(<span style="font-weight:bolder; font-size:80%"><abbr title="inglese">EN</abbr></span>) <a rel="nofollow" class="external text" href="https://www.canaries.co.uk/News/2019/april/max-aarons-efl-young-player-of-the-season/"><span style="font-style:italic;">Max Aarons named EFL Young Player of the Season</span></a>, su <span style="font-style:italic;">canaries.co.uk</span>, 7 aprile 2019.</cite></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Altri_progetti">Altri progetti</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Max_Aarons&amp;veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Modifica la sezione Altri progetti">modifica</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Max_Aarons&amp;action=edit&amp;section=11" title="Modifica la sezione Altri progetti">modifica wikitesto</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div id="interProject" class="toccolours" style="display: none; clear: both; margin-top: 2em"><p id="sisterProjects" style="background-color: #efefef; font-weight: bold; margin: 0"><span>Altri progetti</span></p><ul title="Collegamenti verso gli altri progetti Wikimedia">
+<li class="" title=""><span class="plainlinks" title="commons:Category:Max Aarons"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:Max_Aarons?uselang=it">Wikimedia Commons</a></span></li></ul></div>
+<ul><li><a href="https://commons.wikimedia.org/wiki/?uselang=it" title="Collabora a Wikimedia Commons"><img alt="Collabora a Wikimedia Commons" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png" decoding="async" width="18" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/27px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/36px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> <span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/?uselang=it">Wikimedia Commons</a></span> contiene immagini o altri file su <b><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:Max_Aarons?uselang=it">Max Aarons</a></span></b></li></ul>
+<h2><span class="mw-headline" id="Collegamenti_esterni">Collegamenti esterni</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Max_Aarons&amp;veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Modifica la sezione Collegamenti esterni">modifica</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Max_Aarons&amp;action=edit&amp;section=12" title="Modifica la sezione Collegamenti esterni">modifica wikitesto</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li class="mw-empty-elt"></li>
+<li><cite class="citation web" style="font-style:normal">(<span style="font-weight:bolder; font-size:80%"><abbr title="tedesco">DE</abbr>,&#160;<abbr title="inglese">EN</abbr>,&#160;<abbr title="italiano">IT</abbr></span>) <a rel="nofollow" class="external text" href="https://www.transfermarkt.it/it/-/profil/spieler/471690"><span style="font-style:italic;">Max Aarons</span></a>, su <span style="font-style:italic;"><a href="/wiki/Transfermarkt" title="Transfermarkt">Transfermarkt</a></span>, Transfermarkt GmbH &amp; Co. KG.</cite> <a href="https://www.wikidata.org/wiki/Q56641599#P2446" title="Modifica su Wikidata"><img alt="Modifica su Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></li>
+<li><cite class="citation web" style="font-style:normal"> <a rel="nofollow" class="external text" href="http://it.soccerway.com/players/maximillian-james-aarons/452989/"><span style="font-style:italic;">Max Aarons</span></a>, su <span style="font-style:italic;">it.soccerway.com</span>, Perform Group.</cite> <a href="https://www.wikidata.org/wiki/Q56641599#P2369" title="Modifica su Wikidata"><img alt="Modifica su Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></li>
+<li><cite class="citation web" style="font-style:normal"> <a rel="nofollow" class="external text" href="http://www.calcio.com/profilo_giocatori/max-aarons/"><span style="font-style:italic;">Max Aarons</span></a>, su <span style="font-style:italic;">calcio.com</span>, HEIM:SPIEL Medien GmbH.</cite> <a href="https://www.wikidata.org/wiki/Q56641599#P2020" title="Modifica su Wikidata"><img alt="Modifica su Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></li>
+<li><cite class="citation web" style="font-style:normal">(<span style="font-weight:bolder; font-size:80%"><abbr title="inglese">EN</abbr></span>) <a rel="nofollow" class="external text" href="http://www.soccerbase.com/players/player.sd?player_id=114045"><span style="font-style:italic;">Max Aarons</span></a>, su <span style="font-style:italic;">soccerbase.com</span>, Racing Post.</cite> <a href="https://www.wikidata.org/wiki/Q56641599#P2193" title="Modifica su Wikidata"><img alt="Modifica su Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></li></ul>
+<style data-mw-deduplicate="TemplateStyles:r100174299">.mw-parser-output .navbox{border:1px solid #aaa;clear:both;margin:auto;padding:2px;width:100%}.mw-parser-output .navbox th{padding-left:1em;padding-right:1em;text-align:center}.mw-parser-output .navbox>tbody>tr:first-child>th{background:#ccf;font-size:90%;width:100%}.mw-parser-output .navbox_navbar{float:left;margin:0;padding:0 10px 0 0;text-align:left;width:6em}.mw-parser-output .navbox_title{font-size:110%}.mw-parser-output .navbox_abovebelow{background:#ddf;font-size:90%;font-weight:normal}.mw-parser-output .navbox_group{background:#ddf;font-size:90%;padding:0 10px;white-space:nowrap}.mw-parser-output .navbox_list{font-size:90%;width:100%}.mw-parser-output .navbox_odd{background:#fdfdfd}.mw-parser-output .navbox_even{background:#f7f7f7}.mw-parser-output .navbox_center{text-align:center}.mw-parser-output .navbox .navbox_image{padding-left:7px;vertical-align:middle;width:0}.mw-parser-output .navbox+.navbox{margin-top:-1px}.mw-parser-output .navbox .mw-collapsible-toggle{font-weight:normal;text-align:right;width:7em}.mw-parser-output .subnavbox{margin:-3px;width:100%}.mw-parser-output .subnavbox_group{background:#ddf;padding:0 10px}</style><table class="navbox mw-collapsible autocollapse nowraplinks noprint metadata" id="navbox-Calcio_Norwich_City_rosa"><tbody><tr><th colspan="2" style="background:yellow; color:green; border:1px solid green; width:87%;"><div class="navbox_navbar"><div class="noprint plainlinks" style="background-color:transparent; padding:0; font-size:xx-small; color:#000000; white-space:nowrap;"><a href="/wiki/Template:Calcio_Norwich_City_rosa" title="Template:Calcio Norwich City rosa"><span title="Vai alla pagina del template">V</span></a>&#160;·&#160;<a href="/w/index.php?title=Discussioni_template:Calcio_Norwich_City_rosa&amp;action=edit&amp;redlink=1" class="new" title="Discussioni template:Calcio Norwich City rosa (la pagina non esiste)"><span title="Discuti del template">D</span></a>&#160;·&#160;<a class="external text" href="https://it.wikipedia.org/w/index.php?title=Template:Calcio_Norwich_City_rosa&amp;action=edit"><span title="Modifica il template. Usa l&#39;anteprima prima di salvare">M</span></a></div></div><span class="navbox_title"><a href="/wiki/Norwich_City_Football_Club" title="Norwich City Football Club"><span style="color:green;">Norwich City F.C.</span></a> <span style="color:green;"> &#8211; Rosa</span></span></th></tr><tr><td colspan="2" class="navbox_list navbox_center navbox_odd"><div>
+<p><span style="white-space:nowrap"><small>1</small>&#160;<a href="/wiki/Tim_Krul" title="Tim Krul">Krul</a><span style="font-weight:bold;">&#160;·</span> </span> 
+<span style="white-space:nowrap"><small>2</small>&#160;<a class="mw-selflink selflink">Aarons</a><span style="font-weight:bold;">&#160;·</span> </span> 
+<span style="white-space:nowrap"><small>3</small>&#160;<a href="/wiki/Sam_Byram" title="Sam Byram">Byram</a><span style="font-weight:bold;">&#160;·</span> </span> 
+<span style="white-space:nowrap"><small>4</small>&#160;<a href="/wiki/Ben_Godfrey" title="Ben Godfrey">Godfrey</a><span style="font-weight:bold;">&#160;·</span> </span> 
+<span style="white-space:nowrap"><small>5</small>&#160;<a href="/wiki/Grant_Hanley" title="Grant Hanley">Hanley</a><span style="font-weight:bold;">&#160;·</span> </span> 
+<span style="white-space:nowrap"><small>6</small>&#160;<a href="/wiki/Christoph_Zimmermann" title="Christoph Zimmermann">Zimmermann</a><span style="font-weight:bold;">&#160;·</span> </span> 
+<span style="white-space:nowrap"><small>7</small>&#160;<a href="/wiki/Patrick_Roberts" title="Patrick Roberts">Roberts</a><span style="font-weight:bold;">&#160;·</span> </span> 
+<span style="white-space:nowrap"><small>8</small>&#160;<a href="/wiki/Mario_Vran%C4%8Di%C4%87" title="Mario Vrančić">Vrančić</a><span style="font-weight:bold;">&#160;·</span> </span> 
+<span style="white-space:nowrap"><small>10</small>&#160;<a href="/wiki/Moritz_Leitner" title="Moritz Leitner">Leitner</a><span style="font-weight:bold;">&#160;·</span> </span> 
+<span style="white-space:nowrap"><small>11</small>&#160;<a href="/wiki/Onel_Hern%C3%A1ndez" title="Onel Hernández">Hernández</a><span style="font-weight:bold;">&#160;·</span> </span> 
+<span style="white-space:nowrap"><small>12</small>&#160;<a href="/wiki/Jamal_Lewis_(calciatore)" title="Jamal Lewis (calciatore)">Lewis</a><span style="font-weight:bold;">&#160;·</span> </span> 
+<span style="white-space:nowrap"><small>14</small>&#160;<a href="/wiki/Todd_Cantwell" title="Todd Cantwell">Cantwell</a><span style="font-weight:bold;">&#160;·</span> </span> 
+<span style="white-space:nowrap"><small>15</small>&#160;<a href="/wiki/Timm_Klose" title="Timm Klose">Klose</a><span style="font-weight:bold;">&#160;·</span> </span> 
+<span style="white-space:nowrap"><small>16</small>&#160;<a href="/wiki/Philip_Heise" title="Philip Heise">Heise</a><span style="font-weight:bold;">&#160;·</span> </span> 
+<span style="white-space:nowrap"><small>17</small>&#160;<a href="/wiki/Emiliano_Buend%C3%ADa" title="Emiliano Buendía">Buendía</a><span style="font-weight:bold;">&#160;·</span> </span> 
+<span style="white-space:nowrap"><small>18</small>&#160;<a href="/wiki/Marco_Stiepermann" title="Marco Stiepermann">Stiepermann</a><span style="font-weight:bold;">&#160;·</span> </span> 
+<span style="white-space:nowrap"><small>19</small>&#160;<a href="/wiki/Tom_Trybull" title="Tom Trybull">Trybull</a><span style="font-weight:bold;">&#160;·</span> </span> 
+<span style="white-space:nowrap"><small>20</small>&#160;<a href="/wiki/Josip_Drmi%C4%87" title="Josip Drmić">Drmić</a><span style="font-weight:bold;">&#160;·</span> </span> 
+<span style="white-space:nowrap"><small>21</small>&#160;<a href="/wiki/Ralf_F%C3%A4hrmann" title="Ralf Fährmann">Fährmann</a><span style="font-weight:bold;">&#160;·</span> </span> 
+<span style="white-space:nowrap"><small>22</small>&#160;<a href="/wiki/Teemu_Pukki" title="Teemu Pukki">Pukki</a><span style="font-weight:bold;">&#160;·</span> </span> 
+<span style="white-space:nowrap"><small>23</small>&#160;<a href="/wiki/Kenny_McLean" title="Kenny McLean">McLean</a><span style="font-weight:bold;">&#160;·</span> </span> 
+<span style="white-space:nowrap"><small>27</small>&#160;<a href="/wiki/Alexander_Tettey" title="Alexander Tettey">Tettey</a><span style="font-weight:bold;">&#160;·</span> </span> 
+<span style="white-space:nowrap"><small>32</small>&#160;<a href="/wiki/Dennis_Srbeny" title="Dennis Srbeny">Srbeny</a><span style="font-weight:bold;">&#160;·</span> </span> 
+<span style="white-space:nowrap"><small>33</small>&#160;<a href="/wiki/Michael_McGovern" title="Michael McGovern">McGovern</a><span style="font-weight:bold;">&#160;·</span> </span> 
+<span style="white-space:nowrap"><small>34</small>&#160;<a href="/wiki/Louis_Thompson" title="Louis Thompson">Thompson</a><span style="font-weight:bold;">&#160;·</span> </span> 
+<span style="white-space:nowrap"><small>35</small>&#160;<a href="/w/index.php?title=Adam_Idah&amp;action=edit&amp;redlink=1" class="new" title="Adam Idah (la pagina non esiste)">Idah</a><span style="font-weight:bold;">&#160;·</span> </span> 
+<span style="white-space:nowrap"><small>38</small>&#160;<a href="/w/index.php?title=Aston_Oxborough&amp;action=edit&amp;redlink=1" class="new" title="Aston Oxborough (la pagina non esiste)">Oxborough</a><span style="font-weight:bold;">&#160;·</span> </span> 
+<span style="white-space:nowrap"><a href="/wiki/Ibrahim_Amadou" title="Ibrahim Amadou">Amadou</a><span style="font-weight:bold;">&#160;·</span> </span> 
+<span style="white-space:nowrap"><a href="/wiki/James_Husband" title="James Husband">Husband</a><span style="font-weight:bold;">&#160;·</span> </span> 
+<span style="white-space:nowrap"><a href="/wiki/Ben_Marshall" title="Ben Marshall">Marshall</a><span style="font-weight:bold;">&#160;·</span> </span> 
+<span style="white-space:nowrap"><a href="/wiki/Rocky_Bushiri" title="Rocky Bushiri">Bushiri</a><span style="font-weight:bold;">&#160;·</span> </span> 
+<small>Allenatore:</small>&#160;<a href="/wiki/Daniel_Farke" title="Daniel Farke">Farke</a>
+</p>
+</div></td></tr></tbody></table>
+<table class="noprint" style="width:100%;"><tbody><tr><td style="padding-right:3px; width:50%;"><div style="width:100%; line-height:25px; background-color: #F0EEFF; border:1px solid #CCF;"><a href="/wiki/File:Crystal_Clear_app_Login_Manager.svg" class="image" title="Biografie"><img alt="Biografie" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Crystal_Clear_app_Login_Manager.svg/25px-Crystal_Clear_app_Login_Manager.svg.png" decoding="async" width="25" height="25" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Crystal_Clear_app_Login_Manager.svg/38px-Crystal_Clear_app_Login_Manager.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Crystal_Clear_app_Login_Manager.svg/50px-Crystal_Clear_app_Login_Manager.svg.png 2x" data-file-width="128" data-file-height="128" /></a>&#32;<b><a href="/wiki/Portale:Biografie" title="Portale:Biografie">Portale Biografie</a></b></div></td><td style="padding-left:3px; width:50%;"><div style="width:100%; line-height:25px; background-color: #F0EEFF; border:1px solid #CCF;"><a href="/wiki/File:Soccerball_shade.svg" class="image" title="Calcio"><img alt="Calcio" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Soccerball_shade.svg/25px-Soccerball_shade.svg.png" decoding="async" width="25" height="25" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Soccerball_shade.svg/38px-Soccerball_shade.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Soccerball_shade.svg/50px-Soccerball_shade.svg.png 2x" data-file-width="313" data-file-height="313" /></a>&#32;<b><a href="/wiki/Portale:Calcio" title="Portale:Calcio">Portale Calcio</a></b></div></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1298
+Cached time: 20200113014200
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.644 seconds
+Real time usage: 0.930 seconds
+Preprocessor visited node count: 6380/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 69154/2097152 bytes
+Template argument size: 17014/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 10/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 5001/5000000 bytes
+Number of Wikibase entities loaded: 4/400
+Lua time usage: 0.308/10.000 seconds
+Lua memory usage: 6.94 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  811.437      1 -total
+ 34.46%  279.636      1 Template:Sportivo
+ 20.23%  164.148      1 Template:Collegamenti_esterni
+ 12.35%  100.241      3 Template:Controllo_Wikidata
+  9.29%   75.355      3 Template:Sportivo/Sport
+  8.61%   69.891      1 Template:Calcio_Norwich_City_rosa
+  8.46%   68.667      1 Template:Bio
+  8.14%   66.042      5 Template:CronoparU
+  8.08%   65.597      1 Template:Rosa_società_di_calcio
+  7.77%   63.053      1 Template:Navbox
+-->
+
+<!-- Saved in parser cache with key itwiki:pcache:idhash:8104360-0!canonical and timestamp 20200113014200 and revision id 109354244
+ -->
+</div><noscript><img src="//it.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Estratto da "<a dir="ltr" href="https://it.wikipedia.org/w/index.php?title=Max_Aarons&amp;oldid=109354244">https://it.wikipedia.org/w/index.php?title=Max_Aarons&amp;oldid=109354244</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Categoria:Categorie" title="Categoria:Categorie">Categorie</a>: <ul><li><a href="/wiki/Categoria:Calciatori_del_Luton_Town_F.C." title="Categoria:Calciatori del Luton Town F.C.">Calciatori del Luton Town F.C.</a></li><li><a href="/wiki/Categoria:Calciatori_del_Norwich_City_F.C." title="Categoria:Calciatori del Norwich City F.C.">Calciatori del Norwich City F.C.</a></li><li><a href="/wiki/Categoria:Calciatori_britannici" title="Categoria:Calciatori britannici">Calciatori britannici</a></li><li><a href="/wiki/Categoria:Nati_nel_2000" title="Categoria:Nati nel 2000">Nati nel 2000</a></li><li><a href="/wiki/Categoria:Nati_il_4_gennaio" title="Categoria:Nati il 4 gennaio">Nati il 4 gennaio</a></li><li><a href="/wiki/Categoria:Nati_a_Londra" title="Categoria:Nati a Londra">Nati a Londra</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Categorie nascoste: <ul><li><a href="/wiki/Categoria:P18_letta_da_Wikidata" title="Categoria:P18 letta da Wikidata">P18 letta da Wikidata</a></li><li><a href="/wiki/Categoria:P2048_uguale_su_Wikidata" title="Categoria:P2048 uguale su Wikidata">P2048 uguale su Wikidata</a></li><li><a href="/wiki/Categoria:P2067_assente_su_Wikidata" title="Categoria:P2067 assente su Wikidata">P2067 assente su Wikidata</a></li><li><a href="/wiki/Categoria:Persone_viventi" title="Categoria:Persone viventi">Persone viventi</a></li><li><a href="/wiki/Categoria:BioBot" title="Categoria:BioBot">BioBot</a></li><li><a href="/wiki/Categoria:P2446_letta_da_Wikidata" title="Categoria:P2446 letta da Wikidata">P2446 letta da Wikidata</a></li><li><a href="/wiki/Categoria:P2369_letta_da_Wikidata" title="Categoria:P2369 letta da Wikidata">P2369 letta da Wikidata</a></li><li><a href="/wiki/Categoria:P2020_letta_da_Wikidata" title="Categoria:P2020 letta da Wikidata">P2020 letta da Wikidata</a></li><li><a href="/wiki/Categoria:P2193_letta_da_Wikidata" title="Categoria:P2193 letta da Wikidata">P2193 letta da Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Menu di navigazione</h2>
+			<div id="mw-head">
+						<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+			<h3 id="p-personal-label">Strumenti personali</h3>
+			<ul>
+				<li id="pt-anonuserpage">Accesso non effettuato</li><li id="pt-anontalk"><a href="/wiki/Speciale:MieDiscussioni" title="Discussioni sulle modifiche fatte da questo indirizzo IP [n]" accesskey="n">discussioni</a></li><li id="pt-anoncontribs"><a href="/wiki/Speciale:MieiContributi" title="Un elenco delle modifiche fatte da questo indirizzo IP [y]" accesskey="y">contributi</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Speciale:CreaUtenza&amp;returnto=Max+Aarons" title="Si consiglia di registrarsi e di effettuare l&#039;accesso, anche se non è obbligatorio">registrati</a></li><li id="pt-login"><a href="/w/index.php?title=Speciale:Entra&amp;returnto=Max+Aarons" title="Si consiglia di effettuare l&#039;accesso, anche se non è obbligatorio [o]" accesskey="o">entra</a></li>			</ul>
+		</div>
+						<div id="left-navigation">
+					
+<div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespace</h3>
+	<ul >
+		<li id="ca-nstab-main" class="selected"><a href="/wiki/Max_Aarons" title="Vedi la voce [c]" accesskey="c">Voce</a></li><li id="ca-talk" class="new"><a href="/w/index.php?title=Discussione:Max_Aarons&amp;action=edit&amp;redlink=1" rel="discussion" title="Vedi le discussioni relative a questa pagina (la pagina non esiste) [t]" accesskey="t">Discussione</a></li>
+	</ul>
+</div>
+		<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+			<h3 id="p-variants-label">
+				<span>Varianti</span>
+			</h3>
+			<ul class="menu">
+							</ul>
+		</div>
+						</div>
+				<div id="right-navigation">
+					
+<div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Visite</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/Max_Aarons">Leggi</a></li><li id="ca-ve-edit" class="collapsible"><a href="/w/index.php?title=Max_Aarons&amp;veaction=edit" title="Modifica questa pagina [v]" accesskey="v">Modifica</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Max_Aarons&amp;action=edit" title="Modifica questa pagina [e]" accesskey="e">Modifica wikitesto</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Max_Aarons&amp;action=history" title="Versioni precedenti di questa pagina [h]" accesskey="h">Cronologia</a></li>
+	</ul>
+</div>
+		<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+			<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+			<h3 id="p-cactions-label"><span>Altro</span></h3>
+			<ul class="menu">
+							</ul>
+		</div>
+		
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Ricerca</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Cerca in Wikipedia" title="Cerca in Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Speciale:Ricerca" name="title"/>
+			
+			<input type="submit" name="fulltext" value="Ricerca" title="Cerca il testo indicato nelle pagine" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Vai" title="Vai a una pagina con il titolo indicato, se esiste" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Pagina_principale" title="Visita la pagina principale"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigazione</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage"><a href="/wiki/Pagina_principale" title="Visita la pagina principale [z]" accesskey="z">Pagina principale</a></li><li id="n-recentchanges"><a href="/wiki/Speciale:UltimeModifiche" title="Elenco delle ultime modifiche del sito [r]" accesskey="r">Ultime modifiche</a></li><li id="n-randompage"><a href="/wiki/Speciale:PaginaCasuale" title="Mostra una pagina a caso [x]" accesskey="x">Una voce a caso</a></li><li id="n-mobile-frontend-nearby-title"><a href="/wiki/Speciale:NelleVicinanze">Nelle vicinanze</a></li><li id="n-vetrina"><a href="/wiki/Wikipedia:Vetrina">Vetrina</a></li><li id="n-help"><a href="/wiki/Aiuto:Aiuto" title="Pagine di aiuto">Aiuto</a></li><li id="n-Sportello-informazioni"><a href="/wiki/Aiuto:Sportello_informazioni">Sportello informazioni</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-Comunità" aria-labelledby="p-Comunità-label">
+			<h3 id="p-Comunità-label">Comunità</h3>
+			<div class="body">
+								<ul>
+					<li id="n-portal"><a href="/wiki/Portale:Comunit%C3%A0" title="Descrizione del progetto, cosa puoi fare, dove trovare le cose">Portale Comunità</a></li><li id="n-villagepump"><a href="/wiki/Wikipedia:Bar">Bar</a></li><li id="n-wikipediano"><a href="/wiki/Wikipedia:Wikipediano">Il Wikipediano</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_it.wikipedia.org&amp;uselang=it" title="Sostienici">Fai una donazione</a></li><li id="n-contactpage"><a href="/wiki/Wikipedia:Contatti">Contatti</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Strumenti</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Speciale:PuntanoQui/Max_Aarons" title="Elenco di tutte le pagine che sono collegate a questa [j]" accesskey="j">Puntano qui</a></li><li id="t-recentchangeslinked"><a href="/wiki/Speciale:ModificheCorrelate/Max_Aarons" rel="nofollow" title="Elenco delle ultime modifiche alle pagine collegate a questa [k]" accesskey="k">Modifiche correlate</a></li><li id="t-specialpages"><a href="/wiki/Speciale:PagineSpeciali" title="Elenco di tutte le pagine speciali [q]" accesskey="q">Pagine speciali</a></li><li id="t-permalink"><a href="/w/index.php?title=Max_Aarons&amp;oldid=109354244" title="Collegamento permanente a questa versione della pagina">Link permanente</a></li><li id="t-info"><a href="/w/index.php?title=Max_Aarons&amp;action=info" title="Ulteriori informazioni su questa pagina">Informazioni pagina</a></li><li id="t-cite"><a href="/w/index.php?title=Speciale:Cita&amp;page=Max_Aarons&amp;id=109354244" title="Informazioni su come citare questa pagina">Cita questa voce</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In altri progetti</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Max_Aarons" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Stampa/esporta</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Speciale:Libro&amp;bookcmd=book_creator&amp;referer=Max+Aarons">Crea un libro</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Speciale:ElectronPdf&amp;page=Max+Aarons&amp;action=show-download-screen">Scarica come PDF</a></li><li id="t-print"><a href="/w/index.php?title=Max_Aarons&amp;printable=yes" title="Versione stampabile di questa pagina [p]" accesskey="p">Versione stampabile</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">In altre lingue</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D9%83%D8%B3_%D8%A3%D8%B1%D9%88%D9%86%D8%B2" title="ماكس أرونز - arabo" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D9%85%DA%A9%D8%B3_%D8%A2%D8%B1%D9%88%D9%86%D8%B2" title="مکس آرونز - South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Max_Aarons" title="Max Aarons - catalano" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Max_Aarons" title="Max Aarons - tedesco" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Max_Aarons" title="Max Aarons - inglese" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Max_Aarons" title="Max Aarons - spagnolo" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%85%DA%A9%D8%B3_%D8%A2%D8%B1%D9%88%D9%86%D8%B2" title="مکس آرونز - persiano" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Max_Aarons" title="Max Aarons - finlandese" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Max_Aarons" title="Max Aarons - francese" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%84%D5%A1%D6%84%D5%BD_%D4%B7%D6%80%D5%B8%D5%B6%D5%BD" title="Մաքս Էրոնս - armeno" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%BC%E3%83%AD%E3%83%B3%E3%82%BA" title="マックス・アーロンズ - giapponese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%A7%A5%EC%8A%A4_%EC%97%90%EB%9F%B0%EC%8A%A4" title="맥스 에런스 - coreano" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Max_Aarons" title="Max Aarons - olandese" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Max_Aarons" title="Max Aarons - polacco" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%AD%D1%80%D0%BE%D0%BD%D0%B7,_%D0%9C%D0%B0%D0%BA%D1%81" title="Эронз, Макс - russo" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Max_Aarons" title="Max Aarons - svedese" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%A1%E0%B8%81%E0%B8%8B%E0%B9%8C_%E0%B9%81%E0%B8%AD%E0%B8%A3%E0%B8%AD%E0%B8%99%E0%B8%AA%E0%B9%8C" title="แมกซ์ แอรอนส์ - thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q56641599#sitelinks-wikipedia" title="Modifica collegamenti interlinguistici" class="wbc-editpage">Modifica collegamenti</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> Questa pagina è stata modificata per l'ultima volta il&#160;10 dic 2019 alle 16:18.</li>
+								<li id="footer-info-copyright">Il testo è disponibile secondo la <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.it">licenza Creative Commons Attribuzione-Condividi allo stesso modo</a>; possono applicarsi condizioni ulteriori. Vedi le <a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/it">condizioni d'uso</a> per i dettagli.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/it" class="extiw" title="m:Privacy policy/it">Informativa sulla privacy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:Sala_stampa/Wikipedia" title="Wikipedia:Sala stampa/Wikipedia">Informazioni su Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:Avvertenze_generali" title="Wikipedia:Avvertenze generali">Avvertenze</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Sviluppatori</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/it.wikipedia.org">Statistiche</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Dichiarazione sui cookie</a></li>
+								<li id="footer-places-mobileview"><a href="//it.m.wikipedia.org/w/index.php?title=Max_Aarons&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versione mobile</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.644","walltime":"0.930","ppvisitednodes":{"value":6380,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":69154,"limit":2097152},"templateargumentsize":{"value":17014,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":10,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":5001,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00%  811.437      1 -total"," 34.46%  279.636      1 Template:Sportivo"," 20.23%  164.148      1 Template:Collegamenti_esterni"," 12.35%  100.241      3 Template:Controllo_Wikidata","  9.29%   75.355      3 Template:Sportivo/Sport","  8.61%   69.891      1 Template:Calcio_Norwich_City_rosa","  8.46%   68.667      1 Template:Bio","  8.14%   66.042      5 Template:CronoparU","  8.08%   65.597      1 Template:Rosa_società_di_calcio","  7.77%   63.053      1 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.308","limit":"10.000"},"limitreport-memusage":{"value":7276492,"limit":52428800}},"cachereport":{"origin":"mw1298","timestamp":"20200113014200","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Max Aarons","url":"https:\/\/it.wikipedia.org\/wiki\/Max_Aarons","sameAs":"http:\/\/www.wikidata.org\/entity\/Q56641599","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q56641599","author":{"@type":"Organization","name":"Contributori ai progetti Wikimedia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2019-08-27T00:36:01Z","dateModified":"2019-12-10T15:18:40Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/78\/Norwich_2_Chelsea_3_-_Max_Aarons.jpg","headline":"calciatore inglese"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":138,"wgHostname":"mw1273"});});</script>
+</body>
+</html>

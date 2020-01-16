@@ -18,11 +18,10 @@ foreach ($startpages as $url) {
     }
     $infos = $crawler->analyze($page["content"]);
     $names = array_merge($names, $infos["names"]);
-    
     $next_url = "https://it.wikipedia.org" . $infos["next_page"];
   } while(!empty($infos["next_page"]) && $n_http_requests < MAX_HTTP_REQUESTS);
 }
 
-$crawler->save_names(__DIR__ . "/../names/names.csv", $names);
+$crawler->save_names($names);
 
 echo $crawler->report();
