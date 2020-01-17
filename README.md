@@ -10,26 +10,19 @@ run tests:
 
     vendor/bin/phpspec run
     
-run: (3 steps)
+start docker:
 
-1) Saves a list of names from main listing pages. Outputs in names/names.csv.
+    docker-compose up -d
     
-    php public/save_names.php
+run:
+
+    php public/fetch_names.php <type> <language>
     
-2) Analizes the single names pages and tries to get data from the wiki metadata 
-pages.
-Inputs from names/names.csv.
-Outputs in names/results.csv.
+    docker-compose run slim php public/fetch_names.php
 
-    php public/analyze_names.php
     
-3) Subdivides male and female given names and family names by country.
-Inputs from names/result.csv.
-Outputs in names/given_names.csv
-Outputs in names/family_names.csv
-
-    php public/archive_names.php
-
+where type is either GIVEN or FAMILY
+and language is e.g. ENGLISH, ITALIAN, FRENCH, GERMAN, ...
     
 run phpstan:
 
